@@ -24,20 +24,54 @@ SRT_ENG_PATH = os.path.join(BASE_DIR, "GTA3_ENGLISH_ORIGINAL.srt")
 JB_HUN_PATH = os.path.join(BASE_DIR, "JB_HUNGARIAN_DUB.srt")
 JB_ENG_PATH = os.path.join(BASE_DIR, "JB_ENGLISH_ORIGINAL.srt")
 
-ACCENT_MAP = {
-    'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ö': 'o', 'ő': 'o', 'ú': 'u', 'ü': 'u', 'ű': 'u',
-    'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ö': 'O', 'Ő': 'O', 'Ú': 'U', 'Ü': 'U', 'Ű': 'U'
+# Stock RenderWare CFont character table mapping (European fonts.txd)
+# Maps Hungarian vowels to exact RenderWare internal font sprite sheet codes:
+# á = 0x98 (152), é = 0x9E (158), í = 0xA2 (162), ó = 0xA6 (166), ö = 0xA8 (168)
+# ú = 0xAA (170), ü = 0xAC (172)
+# ő -> ö (0xA8), ű -> ü (0xAC) (Option 1 fallback for stock texture compatibility)
+# Uppercase:
+# Á = 0x81 (129), É = 0x87 (135), Í = 0x8B (139), Ó = 0x8F (143), Ö = 0x91 (145)
+# Ú = 0x93 (147), Ü = 0x95 (149)
+# Ő -> Ö (0x91), Ű -> Ü (0x95)
+
+HUNGARIAN_GLYPH_MAP = {
+    'á': chr(0x98),
+    'é': chr(0x9E),
+    'í': chr(0xA2),
+    'ó': chr(0xA6),
+    'ö': chr(0xA8),
+    'ő': chr(0xA8),
+    'ú': chr(0xAA),
+    'ü': chr(0xAC),
+    'ű': chr(0xAC),
+    'Á': chr(0x81),
+    'É': chr(0x87),
+    'Í': chr(0x8B),
+    'Ó': chr(0x8F),
+    'Ö': chr(0x91),
+    'Ő': chr(0x91),
+    'Ú': chr(0x93),
+    'Ü': chr(0x95),
+    'Ű': chr(0x95),
 }
+
+PUNCTUATION_MAP = {
+    '”': '"', '„': '"', '“': '"',
+    '’': "'", '‘': "'",
+    '–': '-', '—': '-'
+}
+
+def map_hungarian_text(text):
+    for orig, repl in PUNCTUATION_MAP.items():
+        text = text.replace(orig, repl)
+    for orig, repl in HUNGARIAN_GLYPH_MAP.items():
+        text = text.replace(orig, repl)
+    return text
 
 STOPWORDS = {
     "the", "a", "an", "and", "or", "in", "on", "to", "of", "is", "are", "it", "that", "this",
     "you", "he", "we", "i", "so", "for", "with", "me", "my", "your", "his", "her", "at", "be"
 }
-
-def remove_accents(text):
-    for orig, repl in ACCENT_MAP.items():
-        text = text.replace(orig, repl)
-    return text
 
 def parse_gxt(path):
     with open(path, "rb") as f:
@@ -131,39 +165,39 @@ def main():
 
     # Static overrides for cutscene openers, pager letters, and UI strings
     STATIC_OVERRIDES = {
-        "BET_JB": "SZERELME, CATALINA ELARULTA ES HALALRA SEBEZVE MAGARA HAGYTA. AZ ELITELT ES BUNTETESET TOLTO FERFIT EPP A LIBERTY FEGYHAZBA SZALLITJAK.",
-        "BETRA_A": "Bocs, bebi.",
-        "BETRA_B": "En nagypalyas csaj vagyok, te meg,",
-        "BETRA_C": "csak egy kishal. Mindig is az voltal.",
-        "CAT1_A": "Nalam van a draga Mariad. Ha nem akarod, hogy az arca ugy nezzen ki, mintha a hentes keze koze kerult volna,",
-        "CAT1_B": "hozz 500.000 dollart a Cedar Grove-i villahoz.",
-        "CAT2_J": "Emeld mar a levegobe ezt a gepet!!",
-        "EBAL": "'SZABADSAGOT NEKEM'",
-        "EBAL_A": "Tudok egy helyet a piroslampas negyed szelen, ott meghuzhatjuk magunkat,",
-        "EBAL_A1": "de a kezeim tropara mentek, szoval te vezetsz, teso.",
-        "EBAL_B": "Pont itt vagyunk. Tunjunk el az utcarol, es szerezzunk tiszta ruhat!",
-        "EBAL_D": "Ismerek egy fickot, tele van kapcsolatokkal, Luigi a neve.",
-        "EBAL_D1": "Regi haverok vagyunk, biztos tud neked szerezni valami melot. Gyerunk, menjunk oda.",
-        "EBAL_E": "Gyerunk, ugorjunk be, bemutatlak neki.",
-        "EBAL_G": "Ez Luigi klubja. Menjunk hatra a gazdasagi bejarathoz.",
-        "EBAL_H": "Varj itt haver, amig bemegyek beszelni Luigivel.",
-        "EBAL_I": "A fonok mindjart kijon hozzad...",
-        "EBAL_J": "8-Ball az emeleten uzletel.",
-        "EBAL_K": "Talan tehetnel nekem egy szivesseget.",
-        "EBAL_L": "Egyik lanyomnak fuvar kell. Szerezz egy kocsit es hozd el Mistyt a klinikarol, aztan hozd vissza ide.",
-        "EBAL_M": "Es ne feledd: senki sem szorakozhat a lanyaimmal!",
-        "EBAL_N": "Szoval a kezedet a kormanyon tartsd!",
-        "EBAL_O": "Ha nem cseszed el, kaphatsz meg munkat. Most meg tunes innen!",
+        "BET_JB": "SZERELME, CATALINA ELÁRULTA ÉS HALÁLRA SEBEZVE MAGÁRA HAGYTA. AZ ELÍTÉLT ÉS BÜNTETÉSÉT TÖLTŐ FÉRFIT ÉPP A LIBERTY FEGYHÁZBA SZÁLLÍTJÁK.",
+        "BETRA_A": "Bocs, bébi.",
+        "BETRA_B": "Én nagypályás csaj vagyok, te meg,",
+        "BETRA_C": "csak egy kishal. Mindig is az voltál.",
+        "CAT1_A": "Nálam van a drága Máriád. Ha nem akarod, hogy az arca úgy nézzen ki, mintha a hentes keze közé került volna,",
+        "CAT1_B": "hozz 500.000 dollárt a Cedar Grove-i villához.",
+        "CAT2_J": "Emeld már a levegőbe ezt a gépet!",
+        "EBAL": "'SZABADSÁGOT NEKEM'",
+        "EBAL_A": "Tudok egy helyet a piroslámpás negyed szélén, ott meghúzhatjuk magunkat,",
+        "EBAL_A1": "de a kezeim tropára mentek, szóval te vezetsz, tesó.",
+        "EBAL_B": "Pont itt vagyunk. Tűnjünk el az utcáról, és szerezzünk tiszta ruhát!",
+        "EBAL_D": "Ismerek egy fickót, tele van kapcsolatokkal, Luigi a neve.",
+        "EBAL_D1": "Régi haverok vagyunk, biztos tud neked szerezni valami melót. Gyerünk, menjünk oda.",
+        "EBAL_E": "Gyerünk, ugorjunk be, bemutatlak neki.",
+        "EBAL_G": "Ez Luigi klubja. Menjünk hátra a gazdasági bejárathoz.",
+        "EBAL_H": "Várj itt haver, amíg bemegyek beszélni Luigivel.",
+        "EBAL_I": "A főnök mindjárt kijön hozzád...",
+        "EBAL_J": "8-Ball az emeleten üzletel.",
+        "EBAL_K": "Talán tehetnél nekem egy szívességet.",
+        "EBAL_L": "Egyik lányomnak fuvar kell. Szerezz egy kocsit és hozd el Mistyt a klinikáról, aztán hozd vissza ide.",
+        "EBAL_M": "És ne feledd: senki sem szórakozhat a lányaimmal!",
+        "EBAL_N": "Szóval a kezedet a kormányon tartsd!",
+        "EBAL_O": "Ha nem cseszed el, kaphatsz még munkát. Most meg tűnés innen!",
         "LM1_9": "Szia, Misty vagyok.",
-        "LM2_A": "Van egy uj cucc az utcan, ugy hivjak: SPANK.",
-        "LM2_B": "Menj, es mutass be egy baseballutot az arcanak!",
-        "LM2_C": "Luigi mondta, hogy adjam ezt neked, szoval...",
-        "LM2_D": "tessék, fogd, vedd el.",
-        "LM2_E": "Valami okostojas ezt a szemetet terjeszti a lanyaimnak Portland kikotojeben.",
-        "LM2_F": "Aztan vidd el a kocsijat, es fujasd at.",
-        "LM2_G": "Karpotlast kovetelek ezert a sertesert!",
+        "LM2_A": "Van egy új cucc az utcán, úgy hívják: SPANK.",
+        "LM2_B": "Menj, és mutass be egy baseballütőt az arcának!",
+        "LM2_C": "Luigi mondta, hogy adjam ezt neked, szóval...",
+        "LM2_D": "Tessék, fogd, vedd el.",
+        "LM2_E": "Valami okostojás ezt a szemetet terjeszti a lányaimnak Portland kikötőjében.",
+        "LM2_F": "Aztán vidd el a kocsiját, és fújasd át.",
+        "LM2_G": "Kárpótlást követelek ezért a sértésért!",
         "JAILB_R": "Senor seggfej!",
-        "JAILB_U": "Jol van, jol van. Kopjatok le."
+        "JAILB_U": "Jól van, jól van. Kopjatok le."
     }
 
     dialogue_prefixes = [
@@ -186,7 +220,7 @@ def main():
 
     for k, orig_val in list(gxt.items()):
         if k in STATIC_OVERRIDES:
-            gxt[k] = remove_accents(STATIC_OVERRIDES[k])
+            gxt[k] = map_hungarian_text(STATIC_OVERRIDES[k])
             matched_count += 1
             continue
 
@@ -217,12 +251,12 @@ def main():
         if best_score >= 0.48 and len(best_match) >= 12:
             prefix_tags = ""
             if orig_val.startswith("~"):
-                tag_match = re.match(r"^(~[a-z0-9_]+~)", orig_val)
+                tag_match = re.match(r"^((?:~[a-z0-9_]+~)+)", orig_val)
                 if tag_match:
                     prefix_tags = tag_match.group(1)
 
-            clean_h = remove_accents(best_match)
-            gxt[k] = prefix_tags + clean_h
+            mapped_h = map_hungarian_text(best_match)
+            gxt[k] = prefix_tags + mapped_h
             matched_count += 1
 
     print(f"Updated {matched_count} in-game subtitle and cutscene keys with Hungarian dub text.")
