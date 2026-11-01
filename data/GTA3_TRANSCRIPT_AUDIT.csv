@@ -1,0 +1,476 @@
+Segment #,Start Time,End Time,Start (s),End (s),Character,Hungarian Voice Actor,Profile ID,GTA File,Mission Group,Dialogue Text
+1,00:25.29,00:29.52,25.29,29.52,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,BET.mp3,01_Prologue_and_Tutorial,"Sorry, babe. I'm an ambitious girl. You're just small."
+2,00:30.02,00:30.38,30.02,30.38,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,BET.mp3,01_Prologue_and_Tutorial,All time.
+3,00:36.92,00:38.02,36.92,38.02,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,cat1.wav,01_Prologue_and_Tutorial,Get this thing airborne!
+4,00:38.56,00:41.62,38.56,41.62,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,lib_a.wav,01_Prologue_and_Tutorial,This is the place right here. Let's get off the street and find a change of clothes.
+5,00:41.94,00:47.02,41.94,47.02,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,lib_a1.wav,01_Prologue_and_Tutorial,"I know a place on the edge of the red light district where we can lay low. But my hands are all messed up, so you better drive, brother."
+6,00:47.30,00:52.44,47.30,52.44,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,lib_b.wav,01_Prologue_and_Tutorial,"I know this guy. He's connected. His name's Luigi. Me and him go back, so I could probably get you some work."
+7,00:52.72,00:56.44,52.72,56.44,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,lib_c.wav,01_Prologue_and_Tutorial,"Come on, let's head over there. This is Luigi's Club. Let's go around the back and use the service door."
+8,00:56.62,00:57.62,56.62,57.62,Misty,13_Misty_-_Solecki_Janka,48f25391,lib_d.wav,01_Prologue_and_Tutorial,"Hi, I'm Misty."
+9,01:09.16,01:10.91,69.16,70.91,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,l1_lg.mp3,02_Luigi_Goterelli,"Wait here, man, while I go in and talk to"
+10,01:10.91,01:26.30,70.91,86.30,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,l1_lg.mp3,02_Luigi_Goterelli,Luigi. Say hello
+11,01:26.45,01:26.98,86.45,86.98,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,l1_lg.mp3,02_Luigi_Goterelli,"to 8-Ball, ladies."
+12,01:28.85,01:29.80,88.85,89.80,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,l1_lg.mp3,02_Luigi_Goterelli,8-Ball's got some business.
+13,01:30.35,01:34.71,90.35,94.71,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l1_lg.mp3,02_Luigi_Goterelli,"upstairs. Or maybe you could do me a favor. One of my girls needs a ride,"
+14,01:34.71,01:42.36,94.71,102.36,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l1_lg.mp3,02_Luigi_Goterelli,"so grab a car and pick up Misty from the clinic, then bring her back here. Remember, no one messes with my girls."
+15,01:43.59,01:49.56,103.59,109.56,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l1_lg.mp3,02_Luigi_Goterelli,"So keep your hands on the wheel. If you don't mess this up, maybe there'll be more work for you. Now get out of here."
+16,02:09.34,02:13.38,129.34,133.38,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l2_dsb.mp3,02_Luigi_Goterelli,"Luigi said to give you this, so here, here, take it."
+17,02:15.65,02:16.96,135.65,136.96,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l2_dsb.mp3,02_Luigi_Goterelli,There's a new high on the street.
+18,02:17.28,02:22.92,137.28,142.92,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l2_dsb.mp3,02_Luigi_Goterelli,Goes by the name of Spank. Some wise guy's been introducing this trash to my girls down Portland Harbor.
+19,02:23.40,02:29.86,143.40,149.86,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l2_dsb.mp3,02_Luigi_Goterelli,"Go and introduce a bat to his face. Then take his car, respray it. I'm much-"
+20,02:30.18,02:31.96,150.18,151.96,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l2_dsb.mp3,02_Luigi_Goterelli,compensation for this insult.
+21,02:37.39,02:39.21,157.39,159.21,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,l2_a.wav,02_Luigi_Goterelli,"You're working regular for Luigi now, huh?"
+22,02:39.21,02:42.20,159.21,162.20,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,l2_a.wav,02_Luigi_Goterelli,huh? It's about time you got a driver we can trust.
+23,02:42.76,02:43.73,162.76,163.73,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l3_dm.mp3,02_Luigi_Goterelli,I had it on a combo.
+24,02:43.75,02:51.52,163.75,171.52,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l3_dm.mp3,02_Luigi_Goterelli,"What am I gonna do? Hey, I gotta talk to you. Alright, Mick. I'll talk to you later. How you doing, kid?"
+25,02:52.32,02:59.94,172.32,179.94,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l3_dm.mp3,02_Luigi_Goterelli,"The Don's son, Joey Leon. He wants some action from his regular girl, Misty. Go pick her up at Hepburn Heights, but watch yourself. That's Diablo 2."
+26,03:00.08,03:05.14,180.08,185.14,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l3_dm.mp3,02_Luigi_Goterelli,turf. Then run her over to his garage in Trenton and make it quick. Joey ain't the kind you keep waiting.
+27,03:05.60,03:09.85,185.60,189.85,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l3_dm.mp3,02_Luigi_Goterelli,"Remember, this is your foot in the door. So keep your eyes on the road and off"
+28,03:09.85,03:22.20,189.85,202.20,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l4_pap.mp3,02_Luigi_Goterelli,Misty. Some Diablo
+29,03:22.41,03:27.33,202.41,207.33,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l4_pap.mp3,02_Luigi_Goterelli,scumbag has been pimping his scuzzy bitches in my backyard. Go and take care of things for me.
+30,03:27.75,03:29.74,207.75,209.74,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l4_pap.mp3,02_Luigi_Goterelli,"If you need a piece, go around back of him."
+31,03:30.96,03:47.84,210.96,227.84,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l5_tfb.mp3,02_Luigi_Goterelli,opposite the subway. The
+32,03:47.84,03:53.27,227.84,233.27,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l5_tfb.mp3,02_Luigi_Goterelli,Policeman's Ball is being held at the old school hall near the Callahan Bridge and they'll be looking for some old school action.
+33,03:53.31,03:59.90,233.31,239.90,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l5_tfb.mp3,02_Luigi_Goterelli,Now I got girls all over town walking the street. Get them to the ball. They'll make a bundle. Get as many as them as you can before it
+34,04:00.27,04:01.02,240.27,241.02,Luigi Goterelli,03_Luigi_Goterelli_-_Kassai_Karoly,d7bfe3d4,l5_tfb.mp3,02_Luigi_Goterelli,drink away their green.
+35,04:14.33,04:14.50,254.33,254.50,Misty,13_Misty_-_Solecki_Janka,48f25391,j0_dm2.mp3,03_Joey_Leone,Joey!
+36,04:18.08,04:19.96,258.08,259.96,Misty,13_Misty_-_Solecki_Janka,48f25391,j0_dm2.mp3,03_Joey_Leone,Am I gonna get to play with your big hands again?
+37,04:20.56,04:24.38,260.56,264.38,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j0_dm2.mp3,03_Joey_Leone,"I'll be with you in a minute, spark plug. Hey, I'm Joey."
+38,04:24.82,04:28.94,264.82,268.94,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j0_dm2.mp3,03_Joey_Leone,"Luigi said you were reliable, so come back later. There might be some work for you. All right?"
+39,04:32.74,04:34.70,272.74,274.70,Misty,13_Misty_-_Solecki_Janka,48f25391,j1_lfl.mp3,03_Joey_Leone,"Hey, I'm bored. When are you going to drill me?"
+40,04:35.06,04:37.80,275.06,277.80,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j1_lfl.mp3,03_Joey_Leone,"In a moment, sweetheart. I got a little business to take care of."
+41,04:38.70,04:44.10,278.70,284.10,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j1_lfl.mp3,03_Joey_Leone,"I got a little job for you, pal. The Forelli brothers have owed me money for too long and they need to be taught some respect."
+42,04:44.98,04:51.74,284.98,291.74,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j1_lfl.mp3,03_Joey_Leone,"Lips Forelli is stuffing his fat face in the St. Mark's Bistro, so steal his car and take it to Eight Ball's Bomb Shop up in Harwood."
+43,04:52.21,04:56.88,292.21,296.88,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j1_lfl.mp3,03_Joey_Leone,"You know Eight Ball, right? Once he's fitted it with a bomb, go park the car where you found it."
+44,04:57.85,04:59.40,297.85,299.40,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j1_lfl.mp3,03_Joey_Leone,Then sit back and watch the whole show. But Harwood...
+45,05:00.00,05:09.53,300.00,309.53,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,"Hurry up, you won't be eating forever. Chunky"
+46,05:09.53,05:15.38,309.53,315.38,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,"Lee Chong is pushing Spank for some new gang from Columbia or Colorado or something, I'm not really sure."
+47,05:15.54,05:21.18,315.54,321.18,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,"Who needs details? Anyway, he's got a noodle stand down in Chinatown. That rat has sold his last stir fry."
+48,05:21.68,05:26.34,321.68,326.34,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,"I want you to take him out. If you need a piece, go around back of Ammu Nation opposite the subway."
+49,05:26.84,05:29.98,326.84,329.98,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,"Sort yourself with a nine. You know where it is, right? Well, remember, just one."
+50,05:30.02,05:32.28,330.02,332.28,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j2_kcl.mp3,03_Joey_Leone,Watch your back in Chinatown. It's triad
+51,05:32.28,05:42.81,332.28,342.81,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j3_vh.mp3,03_Joey_Leone,"territory. All right,"
+52,05:42.81,05:46.46,342.81,346.46,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j3_vh.mp3,03_Joey_Leone,we're going to hit the payroll van. It leaves the edge of Chinatown every day.
+53,05:47.24,05:54.18,347.24,354.18,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j3_vh.mp3,03_Joey_Leone,"Bullets won't even dent the van's armor, so get a car and ram it off the road. Now hit it hard, and the punk-ass security guard should bail."
+54,05:54.48,05:59.94,354.48,359.94,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j3_vh.mp3,03_Joey_Leone,"Then take it to the warehouse at the docks, and my guys are going to take over from there. Now it won't be doing its rounds all day."
+55,06:00.04,06:07.28,360.04,367.28,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j3_vh.mp3,03_Joey_Leone,"day so you don't hang around. Yeah, no, Tony, I've tuned her real sweet."
+56,06:07.79,06:14.30,367.79,374.30,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j4_eth.mp3,03_Joey_Leone,"She purrs, you know what I mean? Oh, here's the guy I was telling you about. All right, listen, this guy, he ain't Italian and he's no mechanic,"
+57,06:14.30,06:18.12,374.30,378.12,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j4_eth.mp3,03_Joey_Leone,"but he could get things fixed. This is Pop's coppo, Tony Cipriani."
+58,06:18.47,06:20.05,378.47,380.05,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j4_eth.mp3,03_Joey_Leone,"Hey, I'm Tony Cipriani."
+59,06:20.57,06:28.20,380.57,388.20,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j4_eth.mp3,03_Joey_Leone,"Take him to Mama's restaurant in St. Mark's. All right. Now listen to me. I'm planning a job that needs a good driver, so drop by sometime later, okay?"
+60,06:30.14,06:35.62,390.14,395.62,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4_b.wav,03_Joey_Leone,"Hey, watch the car! I said no fancy crap! Wait here. Keep the engine running. This ain't a social call."
+61,06:35.90,06:40.55,395.90,400.55,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4_c.wav,03_Joey_Leone,"It's a triad ambush! Get us outta here, kid! The triads think they can mess with me."
+62,06:41.13,06:46.58,401.13,406.58,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4_e.wav,03_Joey_Leone,The triads. With me. Drop by later and we'll give them something to launder. Their own blood-stained clothes.
+63,06:47.16,06:51.90,407.16,411.90,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4t_1.wav,03_Joey_Leone,"Okay, kid, drive me to the laundry in Chinatown first. I got a bit of business to take care of."
+64,06:52.06,06:56.83,412.06,416.83,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4t_2.wav,03_Joey_Leone,Those washerwomen ain't been paying their protection money. And watch the car. Joey just fixed this junk heap.
+65,06:56.85,06:58.38,416.85,418.38,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,j4t_4.wav,03_Joey_Leone,"So no fancy crap, okay? Beautiful."
+66,07:00.00,07:05.80,420.00,425.80,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j5_dst.mp3,03_Joey_Leone,"Beautiful, just beautiful. All right, just the guy I need to talk to."
+67,07:06.85,07:10.36,426.85,430.36,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j5_dst.mp3,03_Joey_Leone,"All right, there's a car stuffed with a stiff at the cafe near Callahan Point."
+68,07:11.04,07:16.74,431.04,436.74,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j5_dst.mp3,03_Joey_Leone,"One of the Farrellis thought he was a wise guy, so he got what he had coming to him. Take the corpse to the crusher in Hallwood, all right?"
+69,07:24.87,07:29.86,444.87,449.86,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j6_tbj.mp3,03_Joey_Leone,"What a ride she's gonna be, huh? All right, listen, get some wheels to the safe."
+70,07:30.00,07:32.30,450.00,452.30,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j6_tbj.mp3,03_Joey_Leone,I'm at the safe house at St. Mark's and pick up a few friends of mine.
+71,07:32.68,07:37.24,452.68,457.24,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j6_tbj.mp3,03_Joey_Leone,"They're hitting the bank and they need a driver. I gave my word that you were the man, so don't screw this up."
+72,07:37.84,07:39.96,457.84,459.96,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j6_tbj.mp3,03_Joey_Leone,"Get them to the bank before 5 o'clock,"
+73,07:40.25,07:41.02,460.25,461.02,Joey Leone,04_Joey_Leone_-_Rajkai_Zoltan,8f5aa204,j6_tbj.mp3,03_Joey_Leone,a minute after.
+74,07:47.10,07:48.40,467.10,468.40,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,j6_a.wav,03_Joey_Leone,Get us to the bank on the main drag.
+75,07:48.76,07:50.06,468.76,470.06,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,j6_b.wav,03_Joey_Leone,Keep the engine running. We'll be in and
+76,07:50.06,07:53.78,470.06,473.78,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,j6_d.wav,03_Joey_Leone,"out in no time. Get us out of here. All units, I'm bank rate in progress. Bank of Liberty, 2010."
+77,07:54.56,07:59.82,474.56,479.82,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t1_tol.mp3,04_Toni_Cipriani,"Take a seat, kid. Take a goddamn seat. So the laundry won't pay any protection, huh?"
+78,08:00.10,08:05.64,480.10,485.64,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t1_tol.mp3,04_Toni_Cipriani,The triads think they can mess with me? Let's teach these would-be tough guys what it means to be a tough guy.
+79,08:06.09,08:12.81,486.09,492.81,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,t1_tol.mp3,04_Toni_Cipriani,"teach them some respect. No cinnamon gets it by some triads. Goff, Fod, the God of the Soul took no crap from"
+80,08:12.81,08:13.32,492.81,493.32,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,t1_tol.mp3,04_Toni_Cipriani,no triads.
+81,08:13.43,08:19.72,493.43,499.72,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t1_tol.mp3,04_Toni_Cipriani,"Yes, Ma. I want you to destroy their laundry vans and mangle any triad gimp that gets in your way."
+82,08:21.98,08:23.92,501.98,503.92,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t1_tol.mp3,04_Toni_Cipriani,Eightball can supply you with what you're going to need.
+83,08:27.86,08:29.46,507.86,509.46,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t2_tpu.mp3,04_Toni_Cipriani,Tony's off making people bleed.
+84,08:30.51,08:34.94,510.51,514.94,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t2_tpu.mp3,04_Toni_Cipriani,Or trying to. He'll never be as tough as his pop. But he left you a note on the table.
+85,08:35.30,08:40.57,515.30,520.57,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t2_tpu.mp3,04_Toni_Cipriani,"LaLondry has agreed to pay. You did real good, kid. Go collect the cash and bring it back here."
+86,08:40.65,08:46.33,520.65,526.33,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t2_tpu.mp3,04_Toni_Cipriani,Watch out for the triads. They may be shoving a firecracker up your ass. But don't take no crap.
+87,08:46.51,08:49.52,526.51,529.52,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t2_tpu.mp3,04_Toni_Cipriani,"Nobody, I mean nobody, messes with Tony Kipriani."
+88,08:50.16,08:51.25,530.16,531.25,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t3_mas.mp3,04_Toni_Cipriani,I don't know where he is.
+89,08:51.94,08:53.45,531.94,533.45,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t3_mas.mp3,04_Toni_Cipriani,I swear that boy among the... Don
+90,08:53.45,08:59.19,533.45,539.19,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t3_mas.mp3,04_Toni_Cipriani,Salvatore has called a meeting. I need you to collect the limo and his boy Joey from the garage. Then get Luigi from his garage.
+91,09:00.08,09:06.87,540.08,546.87,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t3_mas.mp3,04_Toni_Cipriani,"club. Come back here and pick me up. Then we'll all drive over to the boss's place together. Those triads, they don't know when to stop."
+92,09:07.23,09:12.49,547.23,552.49,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t3_mas.mp3,04_Toni_Cipriani,"They want a war, they got a war. Now get going. How you doing? How you doing, kid?"
+93,09:12.63,09:13.53,552.63,553.53,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,t3_c.wav,04_Toni_Cipriani,No fancy crap.
+94,09:13.75,09:18.15,553.75,558.15,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t4_tat.mp3,04_Toni_Cipriani,"Oh, it's you. Tony ain't here, but he left one of his sugary love letters for you."
+95,09:18.17,09:18.36,558.17,558.36,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t4_tat.mp3,04_Toni_Cipriani,We're
+96,09:18.36,09:24.41,558.36,564.41,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t4_tat.mp3,04_Toni_Cipriani,at war. The triads have a fish factory as a front. Most of their business goes down at the fish market in Chinatown.
+97,09:24.79,09:29.84,564.79,569.84,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t4_tat.mp3,04_Toni_Cipriani,"The laundry still owes us protection. Protection. They reckon the triads are protecting them now, so I say we"
+98,09:30.02,09:37.95,570.02,577.95,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t4_tat.mp3,04_Toni_Cipriani,"exact a fitting punishment. Take those boys over and whack the triad warlords. Hell, if you get a chance, pop some of their soldiers too."
+99,09:38.45,09:40.94,578.45,580.94,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,t4_a.wav,04_Toni_Cipriani,Call all units. Gang one progress Chinatown. Advise caution.
+100,09:42.80,09:44.47,582.80,584.47,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,"Okay, I've had enough of this shit."
+101,09:44.53,09:49.05,584.53,589.05,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,We're gonna finish the triads in liberty once and for all. Eight Balls rigged a dust cart with a bomb.
+102,09:49.15,09:54.27,589.15,594.27,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,"It's on a timer, so if you mess up, there'll be no evidence. Go and pick up the dust cart. Careful."
+103,09:54.51,09:59.94,594.51,599.94,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,Eight Balls says it's real sensitive and the slightest bump could set that thing off. Their fish factory will open it.
+104,10:00.12,10:05.42,600.12,605.42,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,"gates for a dust cart, so you can drive right in. Park up between the gas canisters and get the hell out of there."
+105,10:05.58,10:11.97,605.58,611.97,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,t5_bf.mp3,04_Toni_Cipriani,"I want it to rain mackerel. We're talking real biblical here. Nothing low budget. You did good back there, kid."
+106,10:12.45,10:15.10,612.45,615.10,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"Real good. Come on, let's introduce you to the Don."
+107,10:15.12,10:19.65,615.12,619.65,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"Hey, Luigi. Oh, my girls have been missing you so long, Salvatore."
+108,10:19.67,10:22.04,619.67,622.04,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,You've been away too long. You tell them once this unfortunate
+109,10:22.04,10:25.88,622.04,625.88,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"business is taken care of, we'll all go down to the club and celebrate, okay?"
+110,10:27.84,10:29.46,627.84,629.46,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"Hey, it's my boy. How you doing, Pop?"
+111,10:30.08,10:36.86,630.08,636.86,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"yourself a good woman yet? Hey, your mother, God bless her soul, would be turning over in her grave to see you without a wife."
+112,10:36.94,10:42.24,636.94,642.24,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"I know, Pop. I'm working on it. Tony, how's your mama?"
+113,10:43.06,10:47.75,643.06,647.75,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"She's a great woman, you know. Strong. Firenze. She's good. Fine."
+114,10:48.03,10:53.67,648.03,653.67,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"Terrific. Terrific. Now, listen, you guys, you go inside while I talk to our new friend here."
+115,10:55.03,10:59.74,655.03,659.74,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s0_mas.mp3,05_Salvatore_Leone,"I see nothing but good things for you, my boy. Me and the fellas need to talk business."
+116,11:00.02,11:07.38,660.02,667.38,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s1_pf.mp3,05_Salvatore_Leone,"so you're going to look after my girl for the evening. Hey, Maria, move your butt. Dumb broad does this every time."
+117,11:08.62,11:13.24,668.62,673.24,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s1_pf.mp3,05_Salvatore_Leone,"And here she is, the one and only Queen of Sheba. What were you doing up there?"
+118,11:14.10,11:19.44,674.10,679.44,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s1_pf.mp3,05_Salvatore_Leone,"Whatever it was, I bet it cost me money. Well, you don't think I hang around here for the conversation, do you?"
+119,11:19.76,11:25.36,679.76,685.36,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s1_pf.mp3,05_Salvatore_Leone,"Get in the car and keep your big mouth shut. Take the limo, but bring it back in one piece, you hear me?"
+120,11:26.44,11:29.98,686.44,689.98,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s1_pf.mp3,05_Salvatore_Leone,"And watch her. She can be trouble. Yeah, you..."
+121,11:30.00,11:34.06,690.00,694.06,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_pf.mp3,05_Salvatore_Leone,"Yeah, yeah, I'm sure your new lapdog has everything covered. And isn't he big and strong?"
+122,11:35.15,11:40.28,695.15,700.28,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_pf.mp3,05_Salvatore_Leone,"Hey, fighter, let's go visit Chico and get some party treats. He's at the rail station at the Chinatown waterfront, I think."
+123,11:43.30,11:43.95,703.30,703.95,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_a.wav,05_Salvatore_Leone,"Hi, Mira,"
+124,11:43.95,11:49.70,703.95,709.70,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_a1.wav,05_Salvatore_Leone,"it's my favorite lady. You looking for some fun? A little, hmm, some spank?"
+125,11:50.04,11:55.09,710.04,715.09,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_c.wav,05_Salvatore_Leone,"Hey, Chico, nah, just the usual. Here you go, lady. Hey, maybe you should check out the"
+126,11:55.09,11:57.18,715.09,717.18,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_c1.wav,05_Salvatore_Leone,warehouse party at the East End of Atlanta Keys.
+127,11:57.80,11:59.98,717.80,719.98,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_d.wav,05_Salvatore_Leone,"Hmm, thanks, Chico. Chico, see you around."
+128,12:00.36,12:05.18,720.36,725.18,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_e.wav,05_Salvatore_Leone,"Gracias. And enjoy. That's good stuff. Come on, Fido. Let's go and check out this party."
+129,12:05.42,12:09.26,725.42,729.26,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_g.wav,05_Salvatore_Leone,"All right, Fido. You wait here and look after the car while I go and shake my butt, all right?"
+130,12:09.54,12:10.42,729.54,730.42,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_h.wav,05_Salvatore_Leone,Four or five to all units.
+131,12:10.64,12:13.31,730.64,733.31,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_h.wav,05_Salvatore_Leone,"Assist narcotics rate at Manic Keys. It's all right. Okay,"
+132,12:13.31,12:15.00,733.31,735.00,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_j.wav,05_Salvatore_Leone,Fido. Come on. Let's get out of here. Woo!
+133,12:15.56,12:20.36,735.56,740.36,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_k.wav,05_Salvatore_Leone,"You know, I enjoyed myself for the first time in a long while. And you know, you treated me really good with respect and everything."
+134,12:20.91,12:22.98,740.91,742.98,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s1_l.wav,05_Salvatore_Leone,"I better go. I'll see you around,"
+135,12:22.98,12:26.30,742.98,746.30,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,I hope. Leave us alone for a minute.
+136,12:28.05,12:29.64,748.05,749.64,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,The Colombian cartel is making space.
+137,12:30.30,12:35.66,750.30,755.66,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,"somewhere in Liberty, but we don't know where. And they seem to know everything we're doing before we do."
+138,12:36.83,12:41.36,756.83,761.36,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,We got us a rat. There's a guy named Curly Bob works the bar at Luigi's.
+139,12:41.96,12:47.34,761.96,767.34,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,"He's been throwing more money around than he's earning. He ain't pimping or pushing, so he must be talking."
+140,12:48.50,12:54.28,768.50,774.28,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s2_ctg.mp3,05_Salvatore_Leone,"He usually gets a taxi home after work, so follow him. And if he's ratting us out, kill him."
+141,13:03.60,13:06.48,783.60,786.48,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"Here comes our little friend, Mr. Big Mouth himself."
+142,13:06.98,13:09.44,786.98,789.44,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,Were you followed? You know what goes on here.
+143,13:09.56,13:10.66,789.56,790.66,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"It's our little secret, amigo."
+144,13:10.84,13:11.92,790.84,791.92,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"No, no, I wasn't followed."
+145,13:12.83,13:13.38,792.83,793.38,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,You got my stuff?
+146,13:13.92,13:16.28,793.92,796.28,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"Here's your spank, squealer."
+147,13:16.87,13:17.12,796.87,797.12,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,Now talk.
+148,13:17.60,13:23.84,797.60,803.84,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"Okay, so the Leones are fighting wars on two fronts. They're in a turf war with the Triads, with no sign of either side giving up."
+149,13:24.14,13:29.90,804.14,809.90,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"Meanwhile, Joey Leone has stirred up some bad blood with the Forellis. Every day they're losing men and influencing the city."
+150,13:30.00,13:35.26,810.00,815.26,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,city. Salvatore's becoming dangerous and paranoid. He expects everybody and everything.
+151,13:35.30,13:43.97,815.30,823.97,Curly Bob,18_Curly_Bob_-_Csuja_Imre,daf61ea7,s2_ctg2.mp3,05_Salvatore_Leone,"And with loyalty like yours, what has he possibly got to worry about? We"
+152,13:43.97,13:48.34,823.97,828.34,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,"should take these Colombian bastards out, but while we're at war with the triads, we ain't strong enough."
+153,13:48.88,13:55.72,828.88,835.72,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,"The cartel has got bottomless funds from pushing that Spank crap. If we make an open attack on them, they'll wipe the floor with us."
+154,13:56.14,13:59.92,836.14,839.92,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,They must be making Spank on that big boat that Curly led you to. So we...
+155,14:00.00,14:03.24,840.00,843.24,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,"We gotta use our heads. Or rather, one head. Your head."
+156,14:04.20,14:09.60,844.20,849.60,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,"I'm asking you to destroy that Spank Factory as a personal favor to me, Salvatore Leon."
+157,14:10.76,14:17.37,850.76,857.37,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,"If you do this for me, you will be a made man. Anything you want. Go and see 8-Ball."
+158,14:17.73,14:19.64,857.73,859.64,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s3_rtc.mp3,05_Salvatore_Leone,You'll need his expertise to blow up that boat.
+159,14:23.78,14:26.92,863.78,866.92,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s3_a.wav,05_Salvatore_Leone,"Get a good vantage point, then I'll head in when you fire the first shot."
+160,14:27.22,14:28.08,867.22,868.08,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s3_b.wav,05_Salvatore_Leone,All cars vicinity
+161,14:28.08,14:28.92,868.08,868.92,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s3_b.wav,05_Salvatore_Leone,Portland Harbor. Investigate
+162,14:28.92,14:29.90,868.92,869.90,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s3_b.wav,05_Salvatore_Leone,reports of gunfire and...
+163,14:33.52,14:38.32,873.52,878.32,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s4_bdba.mp3,05_Salvatore_Leone,"Yo, my man, Salvatore phoned ahead, but a job like this is gonna need a lot of fireworks."
+164,14:38.88,14:43.60,878.88,883.60,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s4_bdba.mp3,05_Salvatore_Leone,"I'll need $100,000 to cover expenses. But you know with me, you get a lot of bang for your buck."
+165,14:44.30,14:53.00,884.30,893.00,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s4_bdbb.mp3,05_Salvatore_Leone,"Come back, brother, when you have the money. Okay, let's do this then."
+166,14:53.71,14:58.88,893.71,898.88,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s4_bdbb.mp3,05_Salvatore_Leone,"I can set this baby to detonate, but I still can't use a piece with these hands. Here, this rifle should help you pop some heads."
+167,15:12.23,15:12.84,912.23,912.84,8-Ball,07_8-Ball_-_Kalid_Artur,459d06d3,s4_bdbd.mp3,05_Salvatore_Leone,Sampai jumpa.
+168,15:41.66,15:47.32,941.66,947.32,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrq.mp3,05_Salvatore_Leone,"It's my favorite cleaner. I'm proud of you, my boy. You kicked the shit out of those grease balls."
+169,15:48.08,15:53.62,948.08,953.62,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrq.mp3,05_Salvatore_Leone,I just got one little job for you before we can all celebrate. There's a car around the block from Luigi's Club.
+170,15:54.28,15:59.44,954.28,959.44,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrq.mp3,05_Salvatore_Leone,The inside is covered in brains. Brains. We had to help some guy make up his mind and it proved a little messy.
+171,16:01.60,16:03.62,961.60,963.62,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrq.mp3,05_Salvatore_Leone,Take it to the crusher before the cops find it.
+172,16:07.88,16:12.82,967.88,972.82,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrqb.mp3,05_Salvatore_Leone,"Listen, Salvatore thinks that we're going behind his back, so he was offering you to the cartel in order to make a deal."
+173,16:13.50,16:19.30,973.50,979.30,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrqb.mp3,05_Salvatore_Leone,"I couldn't let him do that. I mean, the worst thing is, it's all my fault because I told him we were an item. Don't ask me what, I don't know."
+174,16:20.14,16:24.96,980.14,984.96,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrqb.mp3,05_Salvatore_Leone,"Look, you're a marked man on the mafia turf and I've got to get out of here too. I've seen too much killing, too much blood."
+175,16:26.42,16:29.88,986.42,989.88,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrqb.mp3,05_Salvatore_Leone,"This is a friend of mine, okay? She's an old friend and it's so good. She's someone we can trust."
+176,16:30.60,16:36.70,990.60,996.70,Salvatore Leone,01_Salvatore_Leone_-_Barbinek_Peter,f58b6f91,s5_lrqb.mp3,05_Salvatore_Leone,"Come on, enough of the speeches. We better get out of here before we get more hysterical Italians wanting less friendly reunions."
+177,16:59.33,16:59.84,1019.33,1019.84,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s5_lrqc.mp3,05_Salvatore_Leone,I still can't...
+178,17:00.00,17:02.70,1020.00,1022.70,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s5_lrqc.mp3,05_Salvatore_Leone,You're gonna have to talk. Why don't you go cruise around?
+179,17:02.98,17:04.22,1022.98,1024.22,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s5_lrqc.mp3,05_Salvatore_Leone,You'll need a place to lie low.
+180,17:04.88,17:07.86,1024.88,1027.86,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s5_lrqc.mp3,05_Salvatore_Leone,There's a warehouse at the edge of Belleville that should suit your needs.
+181,17:08.40,17:11.80,1028.40,1031.80,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,s5_lrqc.mp3,05_Salvatore_Leone,Come back here to my condo when you're ready and you and me can have a little
+182,17:22.39,17:22.94,1042.39,1042.94,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,chat. We have
+183,17:22.94,17:29.82,1042.94,1049.82,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,"certain issues to clear up before we continue any form of relationship, business or otherwise. Let's lay our cards on the table."
+184,17:30.52,17:34.02,1050.52,1054.02,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,"I am Yakuza, and I know you worked for Salvatore Leone's family."
+185,17:34.81,17:41.24,1054.81,1061.24,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,"I can give you work with our organization, but first you must prove to me that your ties with the Mafia are truly broken."
+186,17:42.46,17:48.62,1062.46,1068.62,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,Salvatore Leone will be leaving Luigi's in about three hours' time. Make sure he doesn't reach his club alive.
+187,17:49.84,17:53.04,1069.84,1073.04,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a1_sso.wav,06_Asuka_Kasen,"Meanwhile, Maria and I will catch up on old times."
+188,17:54.52,17:56.78,1074.52,1076.78,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a1_sso.wav,06_Asuka_Kasen,"Oh, Ahsoka, you've got a massager."
+189,17:57.18,17:58.36,1077.18,1078.36,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a1_sso.wav,06_Asuka_Kasen,That's not a massager.
+190,18:00.42,18:00.61,1080.42,1080.61,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,A1_a.wav,06_Asuka_Kasen,There
+191,18:00.61,18:01.56,1080.61,1081.56,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,A1_a.wav,06_Asuka_Kasen,he is! Waste him!
+192,18:05.32,18:07.07,1085.32,1087.07,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a2_pp.wav,06_Asuka_Kasen,A reporter has been nosing around.
+193,18:07.55,18:12.50,1087.55,1092.50,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a2_pp.wav,06_Asuka_Kasen,Marie and I have taken a little holiday together until you can get rid of this perverted voyeur.
+194,18:13.20,18:17.45,1093.20,1097.45,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a2_pp.wav,06_Asuka_Kasen,He's probably out in the bay as you read this. Steal a police boat and sink his
+195,18:17.45,18:26.21,1097.45,1106.21,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,career. Salvatore's death comes as pleasurable news.
+196,18:26.53,18:29.19,1106.53,1109.19,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,You're an efficient killer. I like that in a man. Ah.
+197,18:30.30,18:31.62,1110.30,1111.62,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,"This is my brother, Kenji."
+198,18:32.08,18:36.70,1112.08,1116.70,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,"Asuka has a little job for you. But when you're done, drop by my casino and we can talk."
+199,18:38.53,18:42.12,1118.53,1122.12,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,Just like Kenji. Always trying to play with my toys.
+200,18:43.96,18:49.86,1123.96,1129.86,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,My police source indicates that the FBI has mounted a surveillance operation at key locations around the city.
+201,18:50.58,18:57.80,1130.58,1137.80,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a3_ss.wav,06_Asuka_Kasen,"It is too late to contact anyone and avoid incrimination. Take out these spying cops, but be careful. They're bound to have backup."
+202,19:02.26,19:04.28,1142.26,1144.28,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,a3_a.wav,06_Asuka_Kasen,"Federal agents request immediate backup, Torrington."
+203,19:05.48,19:06.88,1145.48,1146.88,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,It's my handsome handyman.
+204,19:08.02,19:11.16,1148.02,1151.16,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,"Maria's all tied up at the moment, but I'll tell her you called."
+205,19:11.42,19:11.86,1151.42,1151.86,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,Is that a suker?
+206,19:13.24,19:16.06,1153.24,1156.06,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,"I know I've been annoyed a good bit, but I really need to pee, okay?"
+207,19:17.26,19:19.26,1157.26,1159.26,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,It's time you met our man inside the LPD.
+208,19:20.08,19:24.84,1160.08,1164.84,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,Here's a payment for the last little job he did for us. He is understandably cautious.
+209,19:26.04,19:29.58,1166.04,1169.58,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a4_pdr.wav,06_Asuka_Kasen,Get to the payphone in Torrington as quick as you can and await his instructions.
+210,19:36.11,19:42.02,1176.11,1182.02,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,a4_b.wav,06_Asuka_Kasen,Get to the phone in West Belleville Park. Get to the phone on Liberty Campus. Get to the phone in South Belleville Park.
+211,19:42.44,19:44.22,1182.44,1184.22,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,a4_d.wav,06_Asuka_Kasen,Meet me in the toilet block in the park.
+212,19:46.80,19:48.10,1186.80,1188.10,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a5_k2ft.wav,06_Asuka_Kasen,Maria and I have gone shopping.
+213,19:49.03,19:55.32,1189.03,1195.32,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a5_k2ft.wav,06_Asuka_Kasen,Our source in the police has informed us that one of our drivers is a strangely animated undercover cop.
+214,19:56.12,19:59.86,1196.12,1199.86,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a5_k2ft.wav,06_Asuka_Kasen,"He's more or less useless out of his car, so we've tagged it with a trail."
+215,20:00.87,20:01.48,1200.87,1201.48,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a5_k2ft.wav,06_Asuka_Kasen,Make him bleed.
+216,20:03.98,20:06.42,1203.98,1206.42,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,a5_a.wav,06_Asuka_Kasen,Undercover officer requesting immediate backup in clean underwear.
+217,20:06.74,20:07.04,1206.74,1207.04,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,a5_a.wav,06_Asuka_Kasen,Cover blown.
+218,20:11.17,20:13.24,1211.17,1213.24,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,Miguel seems to think I'm mistreating him.
+219,20:13.94,20:18.76,1213.94,1218.76,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,"Still, he's revealed the extent to which Catalina fears your quest for revenge."
+220,20:19.82,20:24.50,1219.82,1224.50,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,"She has three death squads dotted around Liberty, whose sole job is to hunt you down."
+221,20:25.38,20:29.50,1225.38,1229.50,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,"Act as the bait and get the death squads to follow you to Pike Creek, where you can escape."
+222,20:30.06,20:32.66,1230.06,1232.66,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,where some of my men will be waiting for them.
+223,20:36.10,20:36.24,1236.10,1236.24,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,Ah!
+224,20:36.93,20:37.33,1236.93,1237.33,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a6_bait.wav,06_Asuka_Kasen,Ah! Ah!
+225,20:42.68,20:43.07,1242.68,1243.07,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,Miguel certainly
+226,20:43.07,20:47.96,1243.07,1247.96,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,certainly has some of that famous Latin stamina. I'm quite exhausted.
+227,20:49.06,20:55.10,1249.06,1255.10,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,We underestimated Catalina's plans for Spank. It reaches far beyond the yardies selling it on the street corners.
+228,20:55.98,20:59.98,1255.98,1259.98,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,"The cartel have a front company, the Capa Coffeehouse. They've been selling it for years."
+229,21:00.20,21:06.61,1260.20,1266.61,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,"selling Spank through the street stalls, we have no choice but to put these drug stands out of operation."
+230,21:07.11,21:08.42,1267.11,1268.42,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a7_etg.wav,06_Asuka_Kasen,Smash them to splinters!
+231,21:10.70,21:13.58,1270.70,1273.58,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,Do we tighten it some more now or just wait for it to turn black and fall off?
+232,21:14.62,21:15.87,1274.62,1275.87,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,Give it a quick prod.
+233,21:17.81,21:19.62,1277.81,1279.62,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,"Oh, what is that gooey yellow stuff?"
+234,21:20.80,21:21.13,1280.80,1281.13,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,"Hey,"
+235,21:21.13,21:21.46,1281.13,1281.46,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,babe!
+236,21:21.92,21:23.09,1281.92,1283.09,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,My handyman.
+237,21:24.01,21:25.84,1284.01,1285.84,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,I was bored so I came over to keep a soup company.
+238,21:26.66,21:29.70,1286.66,1289.70,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,"She's got the makings of a natural, this girl. She's managed"
+239,21:30.08,21:35.84,1290.08,1295.84,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,to extract this little gem from our guest. There's a plane coming into Francis International in two hours' time.
+240,21:36.34,21:40.91,1296.34,1300.91,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,It is full of Catalina's poison. You can avoid airport security by
+241,21:40.91,21:48.52,1300.91,1308.52,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,getting a boat out to the runway light buoys and shooting the plane down on its approach. Collect the cargo from the debris and stash it.
+242,21:50.09,21:51.44,1310.09,1311.44,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,a8_ps.wav,06_Asuka_Kasen,"Oh, you be careful now, okay, baby?"
+243,21:52.35,21:53.48,1312.35,1313.48,Asuka Kasen,10_Asuka_Kasen_-_Bertalan_Agnes,217233b6,a8_ps.wav,06_Asuka_Kasen,Now try the chili oil.
+244,22:16.78,22:20.77,1336.78,1340.77,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_kbo.mp3,07_Kenji_Kasen,"My sister speaks highly of you, though I am yet to be convinced that a gaijin can offer anything but"
+245,22:20.94,22:27.88,1340.94,1347.88,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_kbo.mp3,07_Kenji_Kasen,"disappointment. Perhaps you could help deal with a situation that has me at a disadvantage. Of course, failure has its own disgrace."
+246,22:28.17,22:29.84,1348.17,1349.84,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_kbo.mp3,07_Kenji_Kasen,A yakuza kanbu is in danger.
+247,22:30.06,22:36.60,1350.06,1356.60,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_kbo.mp3,07_Kenji_Kasen,custody awaiting transfer for trial. He is a valued member of the family. Break him out of custody and get him to the dojo at Bedford Point.
+248,22:41.74,22:43.82,1361.74,1363.82,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_a.wav,07_Kenji_Kasen,Terrorist attached to police headquarters. All units respond immediately.
+249,22:44.30,22:45.24,1364.30,1365.24,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k1_b.wav,07_Kenji_Kasen,What the hell is that smell?
+250,22:49.98,22:50.28,1369.98,1370.28,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,It is
+251,22:50.28,22:54.08,1370.28,1374.08,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,is impossible to overestimate the importance of etiquette in this line of work.
+252,22:54.54,22:59.80,1374.54,1379.80,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,"To my eternal shame, a man once did me a favor, and I have never had the opportunity to repay his kindness."
+253,23:00.02,23:06.86,1380.02,1386.86,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,"kindness. The man's weakness is motor cars, and he has requested that we acquire him certain models for his collection."
+254,23:07.45,23:12.36,1387.45,1392.36,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,"Needless to say, we must give him the cars as a gift to repay the debt that I owe him."
+255,23:13.08,23:18.70,1393.08,1398.70,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,You must obtain the cars on this list and deliver them to a garage behind the car park in Newport.
+256,23:19.22,23:29.84,1399.22,1409.84,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k2_gis.mp3,07_Kenji_Kasen,"My honor demands it. When trouble looms, the fool"
+257,23:30.08,23:38.06,1410.08,1418.06,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k3_ds.mp3,07_Kenji_Kasen,turns his back while the wise man faces it down. The Colombian cartel have ignored repeated requests to leave our interest in liberty well alone.
+258,23:38.64,23:44.46,1418.64,1424.46,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k3_ds.mp3,07_Kenji_Kasen,Now they are negotiating terms with the Jamaicans in order to humiliate us further. They are finalizing a deal across town.
+259,23:44.96,23:51.24,1424.96,1431.24,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k3_ds.mp3,07_Kenji_Kasen,"Take one of my men, steal a Yardley car, and go pay your respects to the Colombians. Our honor demands that you leave no one alive!"
+260,23:53.24,23:59.26,1433.24,1439.26,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k4_shi.mp3,07_Kenji_Kasen,"It's a Yucuzo tribe, man! To be truly strong,"
+261,24:00.51,24:07.30,1440.51,1447.30,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k4_shi.mp3,07_Kenji_Kasen,It is important that you never feel weakness. The business is fortunate enough to have our protection settle their accounts today.
+262,24:08.26,24:11.83,1448.26,1451.83,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k4_shi.mp3,07_Kenji_Kasen,"Go and collect the money immediately, so we can enter it into the casino"
+263,24:11.83,24:19.58,1451.83,1459.58,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k4_shi2.mp3,07_Kenji_Kasen,"accounts. I can't pay you, and I wouldn't pay you if I could."
+264,24:19.94,24:25.22,1459.94,1465.22,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k4_shi2.mp3,07_Kenji_Kasen,Some young gang just dragged up the place. They took everything. You guys are useless. What kind of yakuza are you anyway?
+265,24:34.62,24:38.84,1474.62,1478.84,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,You. How fitting you should choose this moment to show your worthless faith.
+266,24:39.58,24:44.82,1479.58,1484.82,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,It would appear your attempts to dissuade the Jamaicans from becoming bedfellows with the cartel were wholly inadequate.
+267,24:45.76,24:52.08,1485.76,1492.08,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,Yardie pushers line Liberty's streets selling packets of spank like they were selling hot dogs. Those cartel pigs are laughing at us.
+268,24:52.42,24:56.98,1492.42,1496.98,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,At me. I will give you one last chance to prove my sister's faith in you to be well founded.
+269,24:57.64,24:59.96,1497.64,1499.96,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,Run these scumbags into the ground and wash your...
+270,25:00.10,25:02.11,1500.10,1502.11,Kenji Kasen,11_Kenji_Kasen_-_Schnell_Adam,0829b4f4,k5_sd.mp3,07_Kenji_Kasen,shame in rivers of our enemies' blood.
+271,25:06.59,25:09.10,1506.59,1509.10,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,You must be Azuka's new errand boy.
+272,25:10.46,25:15.17,1510.46,1515.17,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,You got the money? Is it all here? I know what you're thinking.
+273,25:15.48,25:23.14,1515.48,1523.14,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,"Another bent cop. Well, it's a bent world. Just because I lost a few partners, those suckers from Internal Affairs have started sniffing around."
+274,25:24.08,25:29.72,1524.08,1529.72,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,"Reckon they can smell me. Well, this city is one big open sewer. But I'm gonna need some now."
+275,25:30.04,25:33.60,1530.04,1533.60,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,"Union help and if you're interested, you know where to find"
+276,25:33.60,25:43.28,1533.60,1543.28,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r0_pdr2.mp3,08_Ray_Machowski,me That scumbag
+277,25:43.28,25:49.63,1543.28,1549.63,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r1_sw.mp3,08_Ray_Machowski,"McCaffrey he took more bribe than anyone Hey, this is gonna get an honorable discharge if he turns state evidence."
+278,25:49.98,25:54.49,1549.98,1554.49,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r1_sw.mp3,08_Ray_Machowski,He just squealed He's under armed protection in which that property down a new
+279,25:54.68,25:59.28,1554.68,1559.28,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r1_sw.mp3,08_Ray_Machowski,port some apartment behind a car park talks that place That's it flush them out and you
+280,26:00.75,26:02.59,1560.75,1562.59,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r1_sw.mp3,08_Ray_Machowski,Make sure he never talks to nobody.
+281,26:02.79,26:05.08,1562.79,1565.08,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,r1_a.wav,08_Ray_Machowski,"Call now, CODS. Officers require urgent assistance, Newport."
+282,26:11.84,26:16.08,1571.84,1576.08,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"Hey, Jack, over here. An old army buddy of mine runs a business in Rockford."
+283,26:16.52,26:23.44,1576.52,1583.44,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"We saw action in Nicaragua back when the country knew what it was doing. Anyway, some cartel scum roughed him up yesterday."
+284,26:23.88,26:29.56,1583.88,1589.56,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"Said they'd be back for some of his stock today. He's gonna need backup, and in return, I'll give you a knockdown, Rach."
+285,26:30.04,26:35.50,1590.04,1595.50,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"And any hardware you buy. I'd go myself, but the old sciatica's playing up."
+286,26:36.96,26:38.54,1596.96,1598.54,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"So, uh, good"
+287,26:38.75,26:47.40,1598.75,1607.40,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r2_ap.mp3,08_Ray_Machowski,"luck. Ray phoned ahead, but I thought there'd be more of you."
+288,26:47.58,26:53.58,1607.58,1613.58,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,r2_b.wav,08_Ray_Machowski,"Can't believe those yellow-bellied bastards left me without proper cover again. Well, three arms are better than one, so grab whatever you need."
+289,26:53.84,26:59.78,1613.84,1619.78,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,r2_e.wav,08_Ray_Machowski,"Those Colombians will be here any minute. Hot damn, they're here. Lock and load. Hey, if I teamed up with you, Nicaragua, Nicaragua?"
+290,27:00.02,27:05.06,1620.02,1625.06,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,r2_g.wav,08_Ray_Machowski,"Maybe I'd still have my arm. If you need any firepower, just drop by and take what you need from the lockers."
+291,27:05.44,27:07.48,1625.44,1627.48,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,r2_g.wav,08_Ray_Machowski,Leave the cash under the bench. Now get out of here.
+292,27:08.07,27:19.84,1628.07,1639.84,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,I'll handle the cops. I know
+293,27:19.84,27:26.34,1639.84,1646.34,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,"a real important man in town. A soft touch with, shall we say, exotic tastes and the money to indulge them."
+294,27:26.96,27:29.58,1646.96,1649.58,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,He's involved in a legal matter and the prosecution has some...
+295,27:30.00,27:37.16,1650.00,1657.16,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,and rather embarrassing photos of him at a morgue party or something. The evidence is being driven across town.
+296,27:38.20,27:43.52,1658.20,1663.52,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,You are going to have to ram that car and collect each little bit of evidence as it falls out.
+297,27:43.94,27:50.76,1663.94,1670.76,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r3_ed.mp3,08_Ray_Machowski,"When you've got it all, leave it in the car and torch it. We're both going to do pretty well out of this, kid."
+298,27:57.15,27:59.84,1677.15,1679.84,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r4_gf.mp3,08_Ray_Machowski,I think my partner's a rat! We're going to shut him up!
+299,28:00.30,28:05.26,1680.30,1685.26,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r4_gf.mp3,08_Ray_Machowski,permanently. He goes fishing out of his boat near the lighthouse on Portland Rock most nights.
+300,28:05.82,28:13.40,1685.82,1693.40,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r4_gf.mp3,08_Ray_Machowski,"Steal a police boat. Make sure his backstabbing plans are sunk. I want him sleeping with the fishes, not eating them."
+301,28:15.25,28:21.93,1695.25,1701.93,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r5_pb.mp3,08_Ray_Machowski,You useless bastard. You totally messed up. My ass is on the line and you can't even kill a goddamn fly.
+302,28:22.19,28:27.25,1702.19,1707.25,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r5_pb.mp3,08_Ray_Machowski,I paid you good money to kill that witness and he ain't dead. And today he's going to make a federal deposition.
+303,28:27.49,28:29.80,1707.49,1709.80,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r5_pb.mp3,08_Ray_Machowski,He's being moved any second now from the Carson General.
+304,28:30.83,28:35.57,1710.83,1715.57,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r5_pb.mp3,08_Ray_Machowski,"hospital up in Rockford. If he squeals, I squeal. Four or five to all units."
+305,28:35.59,28:40.64,1715.59,1720.64,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r6_mm.mp3,08_Ray_Machowski,He's taken the baby suit to kill. The AP suit to kill. You weren't followed.
+306,28:41.51,28:46.02,1721.51,1726.02,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r6_mm.mp3,08_Ray_Machowski,Good. This is it. I'm way over my head and I'm starting to drown here.
+307,28:46.72,28:51.52,1726.72,1731.52,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r6_mm.mp3,08_Ray_Machowski,The CIA seems to have a vested interest in Spank and they don't like us screwing with the cartel.
+308,28:52.36,28:58.16,1732.36,1738.16,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r6_mm.mp3,08_Ray_Machowski,"I'm a mock band, so I'm getting out of here. Get me to my flight at the airport and I'll make it worth your while."
+309,29:01.46,29:06.02,1741.46,1746.02,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,r6_a1.wav,08_Ray_Machowski,Here's the key to the lockup. You'll find some cash and some supplies I stashed in case things got tight. See you around.
+310,29:10.78,29:15.94,1750.78,1755.94,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,"First of all, let me thank you for dealing with that personal matter. People will read something into anything these days."
+311,29:17.02,29:22.40,1757.02,1762.40,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,"Experience has taught me that a man like you can be very loyal for the right price, but groups of men get greedy."
+312,29:23.70,29:29.98,1763.70,1769.98,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,"A valued resource, an old oriental gentleman I know, has been kept hostage by some South Americans in his patria. There are some men in my area who are very loyal to me."
+313,29:30.08,29:38.11,1770.08,1778.11,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,"trying to extort additional funds from me, but I don't believe in renegotiation. A deal is a deal, so they'll not see a penny from me."
+314,29:38.91,29:40.92,1778.91,1780.92,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,Go and rescue my friend. Do whatever it
+315,29:40.92,29:58.38,1780.92,1798.38,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d1_stog.mp3,09_Donald_Love,takes. Thanks for watching.
+316,30:00.00,30:06.22,1800.00,1806.22,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d2_kk.mp3,09_Donald_Love,"like a good old-fashioned gang war, apart from an outbreak of plague, but that might be going too far in this case."
+317,30:07.23,30:13.74,1807.23,1813.74,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d2_kk.mp3,09_Donald_Love,I've noticed the Yakuza and the Colombians are far from friends. Let's capitalize on this business opportunity.
+318,30:14.55,30:22.49,1814.55,1822.49,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d2_kk.mp3,09_Donald_Love,"I want you to kill the Yakuza Wakagashira, Kenji Kasson. Kenji is attending a meeting at the top of the multi-story car park in Newport."
+319,30:23.28,30:29.16,1823.28,1829.16,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d2_kk.mp3,09_Donald_Love,Get a cartel gang car and eliminate him. The Yakuza must blame the cartel for this declaration of war.
+320,30:47.72,30:51.60,1847.72,1851.60,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d3_ado.mp3,09_Donald_Love,"In these days of moral hypocrisy, certain valuable commodities can be hard to import."
+321,30:52.14,30:57.48,1852.14,1857.48,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d3_ado.mp3,09_Donald_Love,"On its approach to the airport tonight, a light aircraft will pass over the bay. It will drop several packages into the water."
+322,30:57.92,30:59.98,1857.92,1859.98,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d3_ado.mp3,09_Donald_Love,Make sure you pick them up before any...
+323,31:00.12,31:05.94,1860.12,1865.94,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta.mp3,09_Donald_Love,"one else does. Thank you for retrieving those packages, but they were only a decoy."
+324,31:06.36,31:11.74,1866.36,1871.74,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta.mp3,09_Donald_Love,"Sorry about that, but that's sometimes the way in business. My real objective was hidden on the plane all along."
+325,31:12.30,31:17.85,1872.30,1877.85,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta.mp3,09_Donald_Love,"Unfortunately, the port authorities seized the plane and were stripping it down until I intervened at great personal expense."
+326,31:18.69,31:23.25,1878.69,1883.25,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta.mp3,09_Donald_Love,Cross the bridge to Shoreside Vale and go to Francis International Airport. I've paid off the officials.
+327,31:23.71,31:27.42,1883.71,1887.42,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta.mp3,09_Donald_Love,My property will be waiting for you at the customs hangar in the aircraft fuselage.
+328,31:45.42,31:51.22,1905.42,1911.22,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"Hey, let's get this out of here. God knows what it is, but he seems to want it badly enough, so it must be worth something."
+329,31:51.32,31:51.65,1911.32,1911.65,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,Who the
+330,31:51.65,31:51.81,1911.65,1911.81,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,hell
+331,31:51.81,31:56.40,1911.81,1916.40,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"are you? Hey, take it easy, amigo. No es nada, no es nada."
+332,31:56.98,31:59.00,1916.98,1919.00,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,I left you pouring your heart out into that
+333,31:59.00,31:59.22,1919.00,1919.22,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,gutter.
+334,31:59.50,31:59.86,1919.50,1919.86,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"Hey, don't shoot."
+335,32:00.00,32:04.42,1920.00,1924.42,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,amigo no no no problem we all friends don't be such a pussy
+336,32:04.42,32:06.88,1924.42,1926.88,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,hey we got no choice baby we
+337,32:06.88,32:08.77,1926.88,1928.77,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,always got a choice you
+338,32:08.77,32:13.32,1928.77,1933.32,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,dumb bastard i'm sorry about the crazy bitch man they're all the
+339,32:13.32,32:15.50,1933.32,1935.50,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,the same please so the whore
+340,32:15.50,32:17.91,1935.50,1937.91,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,got away but you've done me a
+341,32:17.91,32:22.32,1937.91,1942.32,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,a favor you're not the only one that has a score
+342,32:22.71,32:26.72,1942.71,1946.72,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,to settle with the cartel this worm killed my brother i never
+343,32:26.72,32:27.75,1946.72,1947.75,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,killed no yakuza
+344,32:27.75,32:29.70,1947.75,1949.70,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,we all saw the cartel
+345,32:30.74,32:39.20,1950.74,1959.20,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,We are going to hunt down and kill all you Colombian dogs. I'll be operating on our friend here to extract information and a little pleasure.
+346,32:40.72,32:44.80,1960.72,1964.80,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"You, drop by later. I'm sure I'll require your services."
+347,32:45.18,32:45.56,1965.18,1965.56,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"Please, amigo."
+348,32:47.51,32:50.14,1967.51,1970.14,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"Don't leave me here with her, man. She's psycho, chico, man."
+349,32:50.32,32:54.30,1970.32,1974.30,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d4_gta2.mp3,09_Donald_Love,"Please, amigo. Hey, hey, amigo. Amigo."
+350,33:00.80,33:04.87,1980.80,1984.87,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d5_es.mp3,09_Donald_Love,You are proving to be a safe investment. A rare thing in these days of falsehood.
+351,33:05.59,33:09.69,1985.59,1989.69,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d5_es.mp3,09_Donald_Love,My oriental friend will need an escort while he takes my latest acquisition to be authenticated.
+352,33:10.11,33:14.80,1990.11,1994.80,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d5_es.mp3,09_Donald_Love,I want you to follow him and make sure both he and my package get to Pike Creek unharmed.
+353,33:19.24,33:23.70,1999.24,2003.70,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d6_sts.mp3,09_Donald_Love,"A lesson in business, my friend. If you have a unique commodity, the world and his wife will try to"
+354,33:23.70,33:29.78,2003.70,2009.78,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d6_sts.mp3,09_Donald_Love,"wrestle it from your grasp, even if they have little understanding as to its true value. SWAT teams have cordoned off the area."
+355,33:30.00,33:35.82,2010.00,2015.82,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,d6_sts.mp3,09_Donald_Love,around my associate in the package. Get over there. Pick up the van and act as a decoy. Keep them busy and he should make good his escape.
+356,33:54.62,33:58.58,2034.62,2038.58,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,c1_tex.mp3,10_Catalina_and_Climax,"Si, si, bueno. Pa' que es idio? One of these scoff-faced idiots."
+357,34:28.58,34:28.70,2068.58,2068.70,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,c1_tex.mp3,10_Catalina_and_Climax,The
+358,34:30.00,34:30.98,2070.00,2070.98,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,c1_tex.mp3,10_Catalina_and_Climax,to get me back.
+359,34:33.13,34:37.46,2073.13,2077.46,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,c1_tex.mp3,10_Catalina_and_Climax,"Well, I got news for you. Shooting you will be a pleasure, but dating you was only business."
+360,34:38.16,34:38.96,2078.16,2078.96,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,c1_tex.mp3,10_Catalina_and_Climax,You are muy
+361,34:38.96,34:40.77,2078.96,2080.77,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,c1_tex.mp3,10_Catalina_and_Climax,"pequeñito, amigo. Throw over the"
+362,34:40.77,34:49.92,2080.77,2089.92,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,c1_tex.mp3,10_Catalina_and_Climax,"cash. You have been a busy boy, but you haven't learned."
+363,34:50.57,34:52.68,2090.57,2092.68,Catalina,08_Catalina_-_Pikali_Gerda,a540bfee,c1_tex.mp3,10_Catalina_and_Climax,I'm not to be trusted. Kill the idiot.
+364,35:05.34,35:10.92,2105.34,2110.92,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,Residents in Cedar Grove have been coming to terms with the emotional aftermath of a full-blown war that hit the area yesterday.
+365,35:13.42,35:19.66,2113.42,2119.66,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,Local resident Clive Denver described to police a single gunman that he saw fleeing the scene with a dark-haired woman.
+366,35:20.46,35:28.52,2120.46,2128.52,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,"We're going to have such fun because, you know, I love you. I really do because you're such a big, strong man and that's just what I need. Anyway, what was I saying?"
+367,35:30.00,35:31.26,2130.00,2131.26,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,"Yeah, but you know what it's like, don't you?"
+368,35:31.64,35:34.78,2131.64,2134.78,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,The sound of explosions shook nearby homes as people ran for cover.
+369,35:35.56,35:41.44,2135.56,2141.44,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,Several citizens were injured in the panic as gunfire was exchanged between ground forces and a helicopter circling the dam.
+370,35:41.88,35:48.44,2141.88,2148.44,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,END.mp3,10_Catalina_and_Climax,"Yeah, we got a good view from down here in the gardens. When the copter finally got taken out, better than the fireworks on the 4th of July."
+371,35:49.06,35:52.84,2149.06,2152.84,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,"With the death toll already over 20, police are still finding bodies."
+372,35:53.70,35:59.78,2153.70,2159.78,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,"There have been no official denials concerning rumors that the dead were members of the Colombian cartel, and still no leads."
+373,36:00.04,36:01.16,2160.04,2161.16,Donald Love,05_Donald_Love_-_Csanko_Zoltan,fdd39de4,END.mp3,10_Catalina_and_Climax,as to the cause of the massacre.
+374,36:10.00,36:10.29,2170.00,2170.29,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I
+375,36:10.29,36:15.66,2170.29,2175.66,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,"broke a nail and my hair is ruined. I mean, can you believe it? This one cost me 50 and a half?"
+376,36:36.46,36:36.78,2196.46,2196.78,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+377,37:00.02,37:01.70,2220.02,2221.70,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I can do that!
+378,37:37.69,37:38.14,2257.69,2258.14,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+379,38:00.21,38:07.76,2280.21,2287.76,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I'm sorry. I'm sorry. I'm sorry.
+380,38:20.18,38:21.48,2300.18,2301.48,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I'm sorry. I'm sorry.
+381,38:22.08,38:26.80,2302.08,2306.80,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I'm sorry. I'm sorry. I'm sorry.
+382,38:27.57,38:29.98,2307.57,2309.98,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I'm sorry. I'm sorry. I'm sorry. I'm sorry.
+383,39:11.73,39:12.66,2351.73,2352.66,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+384,40:13.50,40:15.21,2413.50,2415.21,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+385,41:40.80,41:41.11,2500.80,2501.11,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+386,42:11.54,42:12.16,2531.54,2532.16,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,Thank you.
+387,42:38.30,42:39.27,2558.30,2559.27,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,I love you.
+388,43:00.59,43:03.18,2580.59,2583.18,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,True lies. True lies.
+389,43:04.34,43:05.04,2584.34,2585.04,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,True lies.
+390,43:23.88,43:25.12,2603.88,2605.12,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,True
+391,43:25.12,43:26.36,2605.12,2606.36,Maria Latore,09_Maria_Latore_-_Muranyi_Tunde,7aa3a29b,END.mp3,10_Catalina_and_Climax,lies.
+392,43:59.90,43:59.96,2639.90,2639.96,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph1.mp3,11_Payphone_Marty_Chonks,Thank you.
+393,44:00.32,44:06.96,2640.32,2646.96,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph1.mp3,11_Payphone_Marty_Chonks,"Marty Chonks. I run the bitchin' dog food factory around the corner. I got money troubles, but hey, who doesn't, right?"
+394,44:07.72,44:13.86,2647.72,2653.86,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph1.mp3,11_Payphone_Marty_Chonks,I'm meeting my bank manager later. He's a crooked bastard that keeps bumping up the loan repayments so he can cut a slice.
+395,44:14.84,44:21.12,2654.84,2661.12,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph1.mp3,11_Payphone_Marty_Chonks,"Take my car, pick him up, and bring him back here. I got a little surprise for that blood-sucking leech."
+396,44:26.38,44:29.98,2666.38,2669.98,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph2.mp3,11_Payphone_Marty_Chonks,I hired some thieves to break into my apartment and steal some stuff so I could-
+397,44:30.00,44:36.10,2670.00,2676.10,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph2.mp3,11_Payphone_Marty_Chonks,and claim on the insurance as you do. The thieving bastards are threatening to tell the insurance company if I don't give them a cut.
+398,44:36.64,44:43.10,2676.64,2683.10,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph2.mp3,11_Payphone_Marty_Chonks,Can you believe it? I left the car inside the factory gates. Use it to go pick them up from their turf in the red light district.
+399,44:43.88,44:47.85,2683.88,2687.85,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph2.mp3,11_Payphone_Marty_Chonks,Then bring them back to the factory so I can make them see Marty's point of
+400,44:47.85,44:57.08,2687.85,2697.08,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph3.mp3,11_Payphone_Marty_Chonks,view. The business is going to go under unless I get a hold of some serious cash soon.
+401,44:57.74,44:59.98,2697.74,2699.98,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph3.mp3,11_Payphone_Marty_Chonks,My wife has an insurance policy and all she's...
+402,45:00.10,45:04.54,2700.10,2704.54,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph3.mp3,11_Payphone_Marty_Chonks,ever been to me is a hole in my pocket. I've left the car in the usual place.
+403,45:04.86,45:08.10,2704.86,2708.10,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph3.mp3,11_Payphone_Marty_Chonks,Go and pick up my wife from Classic Nails and bring her back to the
+404,45:08.10,45:14.95,2708.10,2714.95,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph4.mp3,11_Payphone_Marty_Chonks,"factory. Damn, I'm in trouble."
+405,45:15.27,45:21.45,2715.27,2721.45,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph4.mp3,11_Payphone_Marty_Chonks,"Turns out my wife was seeing some guy I owe money to. He's got real angry, and he's looking for payback."
+406,45:21.91,45:28.78,2721.91,2728.78,Marty Chonks,14_Marty_Chonks_-_Kerekes_Jozsef,61458419,mt_ph4.mp3,11_Payphone_Marty_Chonks,"I've agreed to see him. He thinks I'm gonna pay him off, but my guess is Liberty's dogs are gonna get yet another flavor this month."
+407,45:33.52,45:41.39,2733.52,2741.39,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph1.mp3,12_Payphone_El_Burro,"This is El Burro at the Diablos. You are new in Liberty, but already you are gaining a reputation on the streets."
+408,45:41.99,45:46.05,2741.99,2746.05,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph1.mp3,12_Payphone_El_Burro,There is a street race starting by the old school hall near the Callahan Bridge.
+409,45:46.63,45:50.83,2746.63,2750.83,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph1.mp3,12_Payphone_El_Burro,Get yourself some wheels and first through all the checkpoints wins the
+410,45:50.83,45:59.98,2750.83,2759.98,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph2.mp3,12_Payphone_El_Burro,prize. I started my exotic entertainment business with nothing but this size of
+411,46:00.28,46:07.44,2760.28,2767.44,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph2.mp3,12_Payphone_El_Burro,contents of my leather pants. A gang of no-goods has threatened to remove my starring member if I don't pay them a cut.
+412,46:08.76,46:12.87,2768.76,2772.87,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph2.mp3,12_Payphone_El_Burro,"They threatened the wrong man, amigo. They have a weakness for the ice cream."
+413,46:14.24,46:19.62,2774.24,2779.62,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph2.mp3,12_Payphone_El_Burro,"Pick up the bomb I've hidden in hardwood, hijack the regular ice cream van on its rounds,"
+414,46:19.62,46:26.90,2779.62,2786.90,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph2.mp3,12_Payphone_El_Burro,and lure these fools to their doom with the jingly jingly. They hide in a warehouse on Atlantic Key.
+415,46:31.84,46:36.50,2791.84,2796.50,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,A thieving opportunist has stolen a van of my latest publication hot off the press.
+416,46:37.12,46:42.39,2797.12,2802.39,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,"But that spanked-up idiot has left the rear doors open, and now my beautifully produced,"
+417,46:42.39,46:45.92,2802.39,2805.92,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,tastefully photographed adult literature is being dropped all over Liberty.
+418,46:47.02,46:53.28,2807.02,2813.28,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,"Take the van and follow that trail of Donkey Does Dallas Volumes 1, 2, and 3, collecting it as you go."
+419,46:54.27,46:59.94,2814.27,2819.94,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,"When you follow the trail to that thieving spankhead, waste him. Then deliver my Donkey Derby to the police."
+420,47:00.32,47:02.62,2820.32,2822.62,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph3.mp3,12_Payphone_El_Burro,to XXX Mags in the Red Light District.
+421,47:07.78,47:12.62,2827.78,2832.62,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph4.mp3,12_Payphone_El_Burro,"Some insolent triad stole my beautiful car last night, wrecked it, and left it burning."
+422,47:13.42,47:19.50,2833.42,2839.50,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph4.mp3,12_Payphone_El_Burro,"Some of my most precious donkey memorabilia was in the trunk. Real collectibles that are irreplaceable, my friend."
+423,47:20.30,47:29.12,2840.30,2849.12,El Burro,15_El_Burro_-_Schneider_Zoltan,53784e09,el_ph4.mp3,12_Payphone_El_Burro,I've hidden a throbbing weapon on the edge of Chinatown. Take it and teach these triad vandals to fear El Poro's well-endowed wrath. Arriba!
+424,47:38.93,47:44.24,2858.93,2864.24,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph1.mp3,13_Payphone_King_Courtney,This is King Courtney. Me yada posse could do with them rude boy driver and people is saying you the man.
+425,47:44.98,47:51.84,2864.98,2871.84,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph1.mp3,13_Payphone_King_Courtney,Get to the waste ground opposite the stadium in a car and wait for the other hopefuls. I've got to been watching checkpoints all over starting.
+426,47:52.60,47:56.66,2872.60,2876.66,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph1.mp3,13_Payphone_King_Courtney,First driver to a checkpoint gets the bling bling. Then it's on to the next stop.
+427,47:57.08,47:59.92,2877.08,2879.92,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph1.mp3,13_Payphone_King_Courtney,If you get more checkpoints than any other driver I can have me.
+428,48:00.02,48:07.98,2880.02,2887.98,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph2.mp3,13_Payphone_King_Courtney,a little work for you. I need to see if you're capable of doing me dirty work.
+429,48:08.26,48:13.72,2888.26,2893.72,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph2.mp3,13_Payphone_King_Courtney,"See if you is family or not, don't you know? Two of me boys will be there any second to take you for a ride."
+430,48:13.94,48:16.63,2893.94,2896.63,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph2.mp3,13_Payphone_King_Courtney,See if you is the article or a sister or something.
+431,48:21.26,48:25.23,2901.26,2905.23,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph3.mp3,13_Payphone_King_Courtney,I want you to steal me some gang cars so we can do some naughty thing on our enemy turf.
+432,48:25.98,48:29.74,2905.98,2909.74,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph3.mp3,13_Payphone_King_Courtney,"I want me a mafia sentinel, a yakuza stinger and a diablo."
+433,48:30.00,48:34.48,2910.00,2914.48,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph3.mp3,13_Payphone_King_Courtney,blowin' furnace so we can it up any gang in liberty. Drop them off at the garage
+434,48:34.48,48:38.00,2914.48,2918.00,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph3.mp3,13_Payphone_King_Courtney,"in Newport and hear this, they're no use to me all broke up"
+435,48:38.00,48:43.81,2918.00,2923.81,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph3.mp3,13_Payphone_King_Courtney,"now. Now hear this,"
+436,48:44.04,48:48.42,2924.04,2928.42,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd_ph4.mp3,13_Payphone_King_Courtney,"get your lickle self over to Bedford Point, there's a stash in an old jalopy I need quick smart now."
+437,48:53.70,48:59.80,2933.70,2939.80,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph1.mp3,14_Payphone_D-Ice,"Yo, this is D-Ice of the Red Jacks, I got a problem, they tryin' to play me, these young punks."
+438,49:00.14,49:06.58,2940.14,2946.58,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph1.mp3,14_Payphone_D-Ice,They come onto the streets and they got nothing but guns and spank on their minds. Nines is their tags and purple is their flag.
+439,49:06.78,49:13.96,2946.78,2953.96,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph1.mp3,14_Payphone_D-Ice,"And each day they rock their colors, it's another day the jacks look soft. I want you to show these punk ass bitches how a real drive-by works."
+440,49:14.62,49:20.08,2954.62,2960.08,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph1.mp3,14_Payphone_D-Ice,Take these nines off of here. Watch your back though. There'll be jacks on the street who think you're trying to blast them too.
+441,49:25.49,49:29.94,2965.49,2969.94,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph2.mp3,14_Payphone_D-Ice,Those nines are pressing me. These bitches got armored cars and now they're running spank and slinging.
+442,49:30.06,49:32.85,2970.06,2972.85,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph2.mp3,14_Payphone_D-Ice,it to brothers with no fear. There's a car parked up the way.
+443,49:33.26,49:37.20,2973.26,2977.20,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph2.mp3,14_Payphone_D-Ice,There's some stuff in there to put these sissies on blast and wreck all their armored
+444,49:37.20,49:44.32,2977.20,2984.32,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph3.mp3,14_Payphone_D-Ice,"stuff. Some F is white, my wheels to blow."
+445,49:44.70,49:50.79,2984.70,2990.79,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph3.mp3,14_Payphone_D-Ice,"If I lose those wheels, my rep on the street will be dead. Pick up my car and take it over to the garage on St."
+446,49:50.81,49:57.82,2990.81,2997.82,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph3.mp3,14_Payphone_D-Ice,"Mark's, alright yo? Let them defuse that. Let them take care of that bomb. The clock's ticking and the wiring is messed up."
+447,49:58.24,49:59.88,2998.24,2999.88,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph3.mp3,14_Payphone_D-Ice,One pothole too many and that thing...
+448,50:00.00,50:08.82,3000.00,3008.82,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph4.mp3,14_Payphone_D-Ice,"Ka-Blow! Now move it! Yo, a Federal Reserve flight just smashed down at Francis International."
+449,50:09.48,50:14.08,3009.48,3014.08,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph4.mp3,14_Payphone_D-Ice,There's platinum all over the strip. Get a car and snatch up as much as you can.
+450,50:14.86,50:20.86,3014.86,3020.86,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph4.mp3,14_Payphone_D-Ice,You can drop the bling off at one of my garages. This platinum is mad heavy and it'll slow your wheels down some.
+451,50:21.36,50:29.86,3021.36,3029.86,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph4.mp3,14_Payphone_D-Ice,So make regular drop-offs at the garage. Them nines are down to a few scabby herds.
+452,50:30.63,50:36.76,3030.63,3036.76,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph5.mp3,14_Payphone_D-Ice,"But they still want to bring it. They agreed to go toe-to-toe. A gang of them against two of us, or rather, two of y'all."
+453,50:37.38,50:42.92,3037.38,3042.92,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph5.mp3,14_Payphone_D-Ice,"I'd join you, but I ain't due for my parole hearing for another three months, know what I mean? Go and meet my baby brother."
+454,50:43.32,50:44.84,3043.32,3044.84,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,hd_ph5.mp3,14_Payphone_D-Ice,"He'll show you where they're fighting at, all right, son?"
+455,50:47.93,50:49.18,3047.93,3049.18,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,h5_a.wav,14_Payphone_D-Ice,"Yo, I said you was coming."
+456,50:49.69,50:54.50,3049.69,3054.50,D-Ice,17_D-Ice_-_Papp_Daniel,a4db52b6,h5_a.wav,14_Payphone_D-Ice,"There are rules. Bats only. No guns, no cars. This is a battle for respect."
+457,50:55.17,50:59.86,3055.17,3059.86,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,AMMU_A.wav,15_Ammu-Nation,You cool? Let's go crack some skulls. Luigi said you'd need a piece. Joey told me it's all you are.
+458,51:00.10,51:05.03,3060.10,3065.03,Phil Cassidy,12_Phil_Cassidy_-_Besenczi_Arpad,855e7044,AMMU_C.wav,15_Ammu-Nation,So get around the back of the shop. I left you nine in the yard. You got five seconds to get back in the
+459,51:05.03,51:05.56,3065.03,3065.56,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_ass.wav,16_Yardies_and_Mafia_Lines,"car, man."
+460,51:05.88,51:10.42,3065.88,3070.42,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_b.wav,16_Yardies_and_Mafia_Lines,You do the driving and the shooting and the dallying of boot. We'll make sure you don't get cold feet.
+461,51:10.78,51:16.50,3070.78,3076.50,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_c1.wav,16_Yardies_and_Mafia_Lines,"Here, you'll need a piece. Let's drive. You wrecked my car! Waste of John Crow!"
+462,51:17.00,51:22.78,3077.00,3082.78,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_f.wav,16_Yardies_and_Mafia_Lines,"He's bailing out! You're off-stepping now! Kill him! At Burn Heights, let's kill me some filthy diablos."
+463,51:23.26,51:28.76,3083.26,3088.76,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_g.wav,16_Yardies_and_Mafia_Lines,"Remember, you and this to the end, man. All your corner. Okay, that should do it. Now get us back to the yard."
+464,51:30.10,51:34.93,3090.10,3094.93,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,yd2_ok.wav,16_Yardies_and_Mafia_Lines,"Now! Okay, you're the kind of man we like as friend now. You're irie, man."
+465,51:35.24,51:42.48,3095.24,3102.48,King Courtney,16_King_Courtney_-_Barabas_Kiss_Zoltan,54176522,YD2_A.wav,16_Yardies_and_Mafia_Lines,Real shooter. We're going for a little ride into Epburn Heights. Kill me some filthy Diablo boo-boos been batting up me lady queen Lizzie.
+466,51:42.80,51:48.28,3102.80,3108.28,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,lo2_a.wav,16_Yardies_and_Mafia_Lines,Calling all units. Gunfire reported to the multi-story car park Newport. All units be on lookout for secure car in Pine Creek area.
+467,51:48.74,51:49.05,3108.74,3109.05,Ray Machowski,06_Ray_Machowski_-_Farago_Andras,b1fa2a96,lo6_a.wav,16_Yardies_and_Mafia_Lines,Suspected
+468,51:49.05,51:54.00,3109.05,3114.00,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf1_a.wav,16_Yardies_and_Mafia_Lines,"armed and dangerous. Oh, Mr. Chunk sent you, did he? Let's go and pay the fellow a visit."
+469,51:54.28,51:57.88,3114.28,3117.88,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf2_a.wav,16_Yardies_and_Mafia_Lines,"Marty wants to see me? Well, it better be quick, because I have to get my hair done."
+470,51:58.22,51:59.23,3118.22,3119.23,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf3_a.wav,16_Yardies_and_Mafia_Lines,"Marty sent you, huh? Okay."
+471,52:00.26,52:06.94,3120.26,3126.94,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf3_b.wav,16_Yardies_and_Mafia_Lines,"I'm gonna show that creep the meaning of the word business. Carl, hi. Uh, I, uh, I need more time to get your money."
+472,52:07.34,52:13.88,3127.34,3133.88,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf3_c.wav,16_Yardies_and_Mafia_Lines,"But if you just step into my office... It's far too late for that, Marty. You had your chance. But now, I'm taking over the business."
+473,52:14.32,52:19.68,3134.32,3139.68,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf4_b.wav,16_Yardies_and_Mafia_Lines,"Get your hands off me ass! P- Easy there, partner. Whoa! Put it down. Come on, put it..."
+474,52:19.78,52:20.28,3139.78,3140.28,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf4_b.wav,16_Yardies_and_Mafia_Lines,Harry!
+475,52:21.28,52:21.39,3141.28,3141.39,Toni Cipriani,02_Toni_Cipriani_-_Koszegi_Akos,d1c74526,mf4_c.wav,16_Yardies_and_Mafia_Lines,Stop!

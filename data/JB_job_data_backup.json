@@ -1,0 +1,1104 @@
+{
+  "video_path": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/original.mp3",
+  "audio_path": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/audio.wav",
+  "vocals_path": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/vocals.wav",
+  "no_vocals_path": null,
+  "thumb_path": null,
+  "duration": 113.1101875,
+  "filename": "JB.mp3",
+  "segments": [
+    {
+      "words": [
+        {
+          "text": "Liberty",
+          "start": 12.72,
+          "end": 13.0
+        },
+        {
+          "text": "City",
+          "start": 13.0,
+          "end": 13.28
+        },
+        {
+          "text": "is",
+          "start": 13.28,
+          "end": 13.56
+        },
+        {
+          "text": "in",
+          "start": 13.56,
+          "end": 13.84
+        },
+        {
+          "text": "shock",
+          "start": 13.84,
+          "end": 14.12
+        },
+        {
+          "text": "today",
+          "start": 14.12,
+          "end": 14.4
+        },
+        {
+          "text": "as",
+          "start": 14.4,
+          "end": 14.68
+        },
+        {
+          "text": "the",
+          "start": 14.68,
+          "end": 14.96
+        },
+        {
+          "text": "police",
+          "start": 14.96,
+          "end": 15.24
+        },
+        {
+          "text": "and",
+          "start": 15.24,
+          "end": 15.52
+        },
+        {
+          "text": "emergency",
+          "start": 15.52,
+          "end": 15.8
+        },
+        {
+          "text": "services",
+          "start": 15.8,
+          "end": 16.08
+        },
+        {
+          "text": "deal",
+          "start": 16.08,
+          "end": 16.36
+        },
+        {
+          "text": "with",
+          "start": 16.36,
+          "end": 16.64
+        },
+        {
+          "text": "the",
+          "start": 16.64,
+          "end": 16.92
+        },
+        {
+          "text": "aftermath",
+          "start": 16.92,
+          "end": 17.2
+        }
+      ],
+      "id": "s00000",
+      "start": 12.72,
+      "end": 17.2,
+      "text": "Liberty City is in shock today as the police and emergency services deal with the aftermath",
+      "speaker_id": "Speaker 1",
+      "text_original": "Liberty City is in shock today as the police and emergency services deal with the aftermath",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "of",
+          "start": 17.2,
+          "end": 17.49
+        },
+        {
+          "text": "a",
+          "start": 17.49,
+          "end": 17.78
+        },
+        {
+          "text": "devastating",
+          "start": 17.78,
+          "end": 18.07
+        },
+        {
+          "text": "attack",
+          "start": 18.07,
+          "end": 18.36
+        },
+        {
+          "text": "on",
+          "start": 18.36,
+          "end": 18.65
+        },
+        {
+          "text": "a",
+          "start": 18.65,
+          "end": 18.94
+        },
+        {
+          "text": "police",
+          "start": 18.94,
+          "end": 19.23
+        },
+        {
+          "text": "convoy",
+          "start": 19.23,
+          "end": 19.52
+        },
+        {
+          "text": "this",
+          "start": 19.52,
+          "end": 19.81
+        },
+        {
+          "text": "morning.",
+          "start": 19.81,
+          "end": 20.1
+        }
+      ],
+      "id": "s00001",
+      "start": 17.2,
+      "end": 20.1,
+      "text": "of a devastating attack on a police convoy this morning.",
+      "speaker_id": "Speaker 1",
+      "text_original": "of a devastating attack on a police convoy this morning.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "As",
+          "start": 20.54,
+          "end": 20.791
+        },
+        {
+          "text": "yet,",
+          "start": 20.791,
+          "end": 21.041
+        },
+        {
+          "text": "no",
+          "start": 21.041,
+          "end": 21.292
+        },
+        {
+          "text": "details",
+          "start": 21.292,
+          "end": 21.543
+        },
+        {
+          "text": "have",
+          "start": 21.543,
+          "end": 21.793
+        },
+        {
+          "text": "been",
+          "start": 21.793,
+          "end": 22.044
+        },
+        {
+          "text": "released",
+          "start": 22.044,
+          "end": 22.295
+        },
+        {
+          "text": "about",
+          "start": 22.295,
+          "end": 22.545
+        },
+        {
+          "text": "the",
+          "start": 22.545,
+          "end": 22.796
+        },
+        {
+          "text": "prisoners",
+          "start": 22.796,
+          "end": 23.047
+        },
+        {
+          "text": "being",
+          "start": 23.047,
+          "end": 23.297
+        },
+        {
+          "text": "transferred",
+          "start": 23.297,
+          "end": 23.548
+        },
+        {
+          "text": "in",
+          "start": 23.548,
+          "end": 23.799
+        },
+        {
+          "text": "the",
+          "start": 23.799,
+          "end": 24.049
+        },
+        {
+          "text": "convoy",
+          "start": 24.049,
+          "end": 24.3
+        },
+        {
+          "text": "and",
+          "start": 24.3,
+          "end": 24.653
+        },
+        {
+          "text": "no",
+          "start": 24.653,
+          "end": 25.007
+        },
+        {
+          "text": "group",
+          "start": 25.007,
+          "end": 25.36
+        },
+        {
+          "text": "has",
+          "start": 25.36,
+          "end": 25.713
+        },
+        {
+          "text": "claimed",
+          "start": 25.713,
+          "end": 26.067
+        },
+        {
+          "text": "responsibility.",
+          "start": 26.067,
+          "end": 26.42
+        }
+      ],
+      "id": "s00002",
+      "start": 20.54,
+      "end": 26.42,
+      "text": "As yet, no details have been released about the prisoners being transferred in the convoy and no group has claimed responsibility.",
+      "speaker_id": "Speaker 1",
+      "text_original": "As yet, no details have been released about the prisoners being transferred in the convoy and no group has claimed responsibility.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "The",
+          "start": 26.98,
+          "end": 27.28
+        },
+        {
+          "text": "convoy",
+          "start": 27.28,
+          "end": 27.58
+        },
+        {
+          "text": "left",
+          "start": 27.58,
+          "end": 27.88
+        },
+        {
+          "text": "police",
+          "start": 27.88,
+          "end": 28.18
+        },
+        {
+          "text": "headquarters",
+          "start": 28.18,
+          "end": 28.48
+        },
+        {
+          "text": "early",
+          "start": 28.48,
+          "end": 28.78
+        },
+        {
+          "text": "this",
+          "start": 28.78,
+          "end": 29.08
+        },
+        {
+          "text": "morning",
+          "start": 29.08,
+          "end": 29.38
+        },
+        {
+          "text": "for",
+          "start": 29.38,
+          "end": 29.68
+        },
+        {
+          "text": "a",
+          "start": 29.68,
+          "end": 29.98
+        }
+      ],
+      "id": "s00003",
+      "start": 26.98,
+      "end": 29.98,
+      "text": "The convoy left police headquarters early this morning for a",
+      "speaker_id": "Speaker 1",
+      "text_original": "The convoy left police headquarters early this morning for a",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "routine",
+          "start": 30.0,
+          "end": 30.317
+        },
+        {
+          "text": "transfer",
+          "start": 30.317,
+          "end": 30.635
+        },
+        {
+          "text": "of",
+          "start": 30.635,
+          "end": 30.953
+        },
+        {
+          "text": "felons",
+          "start": 30.953,
+          "end": 31.27
+        },
+        {
+          "text": "to",
+          "start": 31.27,
+          "end": 31.587
+        },
+        {
+          "text": "liberty",
+          "start": 31.587,
+          "end": 31.905
+        },
+        {
+          "text": "and",
+          "start": 31.905,
+          "end": 32.222
+        },
+        {
+          "text": "attentionary.",
+          "start": 32.222,
+          "end": 32.54
+        },
+        {
+          "text": "The",
+          "start": 32.88,
+          "end": 33.141
+        },
+        {
+          "text": "attack",
+          "start": 33.141,
+          "end": 33.403
+        },
+        {
+          "text": "took",
+          "start": 33.403,
+          "end": 33.664
+        },
+        {
+          "text": "place",
+          "start": 33.664,
+          "end": 33.925
+        },
+        {
+          "text": "on",
+          "start": 33.925,
+          "end": 34.187
+        },
+        {
+          "text": "the",
+          "start": 34.187,
+          "end": 34.448
+        },
+        {
+          "text": "Callahan",
+          "start": 34.448,
+          "end": 34.709
+        },
+        {
+          "text": "Bridge,",
+          "start": 34.709,
+          "end": 34.971
+        }
+      ],
+      "id": "s00004",
+      "start": 30.0,
+      "end": 34.97,
+      "text": "routine transfer of felons to liberty and attentionary. The attack took place on the Callahan Bridge,",
+      "speaker_id": "Speaker 1",
+      "text_original": "routine transfer of felons to liberty and attentionary. The attack took place on the Callahan Bridge,",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "leaving",
+          "start": 34.971,
+          "end": 35.232
+        },
+        {
+          "text": "few",
+          "start": 35.232,
+          "end": 35.493
+        },
+        {
+          "text": "witnesses",
+          "start": 35.493,
+          "end": 35.755
+        },
+        {
+          "text": "and",
+          "start": 35.755,
+          "end": 36.016
+        },
+        {
+          "text": "the",
+          "start": 36.016,
+          "end": 36.277
+        },
+        {
+          "text": "bridge",
+          "start": 36.277,
+          "end": 36.539
+        },
+        {
+          "text": "itself",
+          "start": 36.539,
+          "end": 36.8
+        },
+        {
+          "text": "severely",
+          "start": 36.8,
+          "end": 37.38
+        },
+        {
+          "text": "damaged.",
+          "start": 37.38,
+          "end": 37.96
+        }
+      ],
+      "id": "s00005",
+      "start": 34.97,
+      "end": 37.96,
+      "text": "leaving few witnesses and the bridge itself severely damaged.",
+      "speaker_id": "Speaker 1",
+      "text_original": "leaving few witnesses and the bridge itself severely damaged.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "Some",
+          "start": 38.56,
+          "end": 38.753
+        },
+        {
+          "text": "of",
+          "start": 38.753,
+          "end": 38.945
+        },
+        {
+          "text": "the",
+          "start": 38.945,
+          "end": 39.138
+        },
+        {
+          "text": "convicts",
+          "start": 39.138,
+          "end": 39.33
+        },
+        {
+          "text": "are",
+          "start": 39.33,
+          "end": 39.523
+        },
+        {
+          "text": "thought",
+          "start": 39.523,
+          "end": 39.715
+        },
+        {
+          "text": "to",
+          "start": 39.715,
+          "end": 39.907
+        },
+        {
+          "text": "have",
+          "start": 39.907,
+          "end": 40.1
+        },
+        {
+          "text": "perished",
+          "start": 40.1,
+          "end": 40.293
+        },
+        {
+          "text": "in",
+          "start": 40.293,
+          "end": 40.485
+        },
+        {
+          "text": "the",
+          "start": 40.485,
+          "end": 40.678
+        },
+        {
+          "text": "explosion",
+          "start": 40.678,
+          "end": 40.87
+        },
+        {
+          "text": "that",
+          "start": 40.87,
+          "end": 41.062
+        },
+        {
+          "text": "followed",
+          "start": 41.062,
+          "end": 41.255
+        },
+        {
+          "text": "the",
+          "start": 41.255,
+          "end": 41.447
+        },
+        {
+          "text": "initial",
+          "start": 41.447,
+          "end": 41.64
+        },
+        {
+          "text": "attack.",
+          "start": 41.64,
+          "end": 42.08
+        }
+      ],
+      "id": "s00006",
+      "start": 38.56,
+      "end": 42.08,
+      "text": "Some of the convicts are thought to have perished in the explosion that followed the initial attack.",
+      "speaker_id": "Speaker 1",
+      "text_original": "Some of the convicts are thought to have perished in the explosion that followed the initial attack.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "Revelations",
+          "start": 42.64,
+          "end": 42.962
+        },
+        {
+          "text": "as",
+          "start": 42.962,
+          "end": 43.283
+        },
+        {
+          "text": "to",
+          "start": 43.283,
+          "end": 43.605
+        },
+        {
+          "text": "the",
+          "start": 43.605,
+          "end": 43.926
+        },
+        {
+          "text": "professionalism",
+          "start": 43.926,
+          "end": 44.248
+        },
+        {
+          "text": "of",
+          "start": 44.248,
+          "end": 44.569
+        },
+        {
+          "text": "the",
+          "start": 44.569,
+          "end": 44.891
+        },
+        {
+          "text": "attack",
+          "start": 44.891,
+          "end": 45.212
+        },
+        {
+          "text": "struck",
+          "start": 45.212,
+          "end": 45.534
+        },
+        {
+          "text": "police",
+          "start": 45.534,
+          "end": 45.855
+        },
+        {
+          "text": "hours",
+          "start": 45.855,
+          "end": 46.177
+        },
+        {
+          "text": "afterward",
+          "start": 46.177,
+          "end": 46.498
+        },
+        {
+          "text": "when",
+          "start": 46.498,
+          "end": 46.82
+        },
+        {
+          "text": "identification",
+          "start": 46.82,
+          "end": 47.121
+        }
+      ],
+      "id": "s00007",
+      "start": 42.64,
+      "end": 47.12,
+      "text": "Revelations as to the professionalism of the attack struck police hours afterward when identification",
+      "speaker_id": "Speaker 1",
+      "text_original": "Revelations as to the professionalism of the attack struck police hours afterward when identification",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "of",
+          "start": 47.121,
+          "end": 47.423
+        },
+        {
+          "text": "the",
+          "start": 47.423,
+          "end": 47.724
+        },
+        {
+          "text": "missing",
+          "start": 47.724,
+          "end": 48.026
+        },
+        {
+          "text": "felons",
+          "start": 48.026,
+          "end": 48.327
+        },
+        {
+          "text": "were",
+          "start": 48.327,
+          "end": 48.629
+        },
+        {
+          "text": "further",
+          "start": 48.629,
+          "end": 48.93
+        },
+        {
+          "text": "hampered",
+          "start": 48.93,
+          "end": 49.231
+        },
+        {
+          "text": "by",
+          "start": 49.231,
+          "end": 49.533
+        },
+        {
+          "text": "an",
+          "start": 49.533,
+          "end": 49.834
+        },
+        {
+          "text": "attack",
+          "start": 49.834,
+          "end": 50.136
+        },
+        {
+          "text": "by",
+          "start": 50.136,
+          "end": 50.437
+        },
+        {
+          "text": "computer",
+          "start": 50.437,
+          "end": 50.739
+        },
+        {
+          "text": "hackers",
+          "start": 50.739,
+          "end": 51.04
+        },
+        {
+          "text": "on",
+          "start": 51.04,
+          "end": 51.48
+        },
+        {
+          "text": "police",
+          "start": 51.48,
+          "end": 51.92
+        },
+        {
+          "text": "headquarters",
+          "start": 51.92,
+          "end": 52.36
+        },
+        {
+          "text": "databases.",
+          "start": 52.36,
+          "end": 52.8
+        }
+      ],
+      "id": "s00008",
+      "start": 47.12,
+      "end": 52.8,
+      "text": "of the missing felons were further hampered by an attack by computer hackers on police headquarters databases.",
+      "speaker_id": "Speaker 1",
+      "text_original": "of the missing felons were further hampered by an attack by computer hackers on police headquarters databases.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "With",
+          "start": 53.36,
+          "end": 53.757
+        },
+        {
+          "text": "the",
+          "start": 53.757,
+          "end": 54.153
+        },
+        {
+          "text": "Porter-Tonnell",
+          "start": 54.153,
+          "end": 54.55
+        },
+        {
+          "text": "project",
+          "start": 54.55,
+          "end": 54.947
+        },
+        {
+          "text": "falling",
+          "start": 54.947,
+          "end": 55.343
+        },
+        {
+          "text": "behind",
+          "start": 55.343,
+          "end": 55.74
+        },
+        {
+          "text": "schedule,",
+          "start": 55.74,
+          "end": 56.137
+        },
+        {
+          "text": "this",
+          "start": 56.137,
+          "end": 56.533
+        },
+        {
+          "text": "disaster",
+          "start": 56.533,
+          "end": 56.93
+        },
+        {
+          "text": "leaves",
+          "start": 56.93,
+          "end": 57.327
+        },
+        {
+          "text": "Portland",
+          "start": 57.327,
+          "end": 57.723
+        },
+        {
+          "text": "isolated",
+          "start": 57.723,
+          "end": 58.12
+        },
+        {
+          "text": "from",
+          "start": 58.12,
+          "end": 58.27
+        },
+        {
+          "text": "the",
+          "start": 58.27,
+          "end": 58.42
+        },
+        {
+          "text": "rest",
+          "start": 58.42,
+          "end": 58.57
+        },
+        {
+          "text": "of",
+          "start": 58.57,
+          "end": 58.72
+        },
+        {
+          "text": "the",
+          "start": 58.72,
+          "end": 58.87
+        },
+        {
+          "text": "city.",
+          "start": 58.87,
+          "end": 59.02
+        }
+      ],
+      "id": "s00009",
+      "start": 53.36,
+      "end": 59.02,
+      "text": "With the Porter-Tonnell project falling behind schedule, this disaster leaves Portland isolated from the rest of the city.",
+      "speaker_id": "Speaker 1",
+      "text_original": "With the Porter-Tonnell project falling behind schedule, this disaster leaves Portland isolated from the rest of the city.",
+      "profile_id": "auto:speaker_1"
+    },
+    {
+      "words": [
+        {
+          "text": "Come",
+          "start": 65.87,
+          "end": 66.693
+        },
+        {
+          "text": "on,",
+          "start": 66.693,
+          "end": 67.517
+        },
+        {
+          "text": "say",
+          "start": 67.517,
+          "end": 68.34
+        },
+        {
+          "text": "in",
+          "start": 68.34,
+          "end": 69.163
+        },
+        {
+          "text": "your",
+          "start": 69.163,
+          "end": 69.987
+        },
+        {
+          "text": "dickhead.",
+          "start": 69.987,
+          "end": 70.81
+        }
+      ],
+      "id": "s0000a",
+      "start": 65.87,
+      "end": 70.81,
+      "text": "Come on, say in your dickhead.",
+      "speaker_id": "Speaker 3",
+      "text_original": "Come on, say in your dickhead.",
+      "profile_id": "auto:speaker_3"
+    },
+    {
+      "words": [
+        {
+          "text": "It's",
+          "start": 71.75,
+          "end": 72.05
+        },
+        {
+          "text": "no",
+          "start": 72.05,
+          "end": 72.35
+        },
+        {
+          "text": "problem",
+          "start": 72.35,
+          "end": 72.65
+        },
+        {
+          "text": "to",
+          "start": 72.65,
+          "end": 72.95
+        },
+        {
+          "text": "kill",
+          "start": 72.95,
+          "end": 73.25
+        },
+        {
+          "text": "you.",
+          "start": 73.25,
+          "end": 73.55
+        },
+        {
+          "text": "You",
+          "start": 75.58,
+          "end": 75.945
+        },
+        {
+          "text": "gonna",
+          "start": 75.945,
+          "end": 76.31
+        },
+        {
+          "text": "be",
+          "start": 76.31,
+          "end": 76.675
+        },
+        {
+          "text": "sorry.",
+          "start": 76.675,
+          "end": 77.04
+        }
+      ],
+      "id": "s0000b",
+      "start": 71.75,
+      "end": 77.04,
+      "text": "It's no problem to kill you. You gonna be sorry.",
+      "speaker_id": "Speaker 3",
+      "text_original": "It's no problem to kill you. You gonna be sorry.",
+      "profile_id": "auto:speaker_3"
+    },
+    {
+      "words": [
+        {
+          "text": "I,",
+          "start": 85.69,
+          "end": 86.014
+        },
+        {
+          "text": "I,",
+          "start": 86.014,
+          "end": 86.338
+        },
+        {
+          "text": "I,",
+          "start": 86.338,
+          "end": 86.662
+        },
+        {
+          "text": "get",
+          "start": 86.662,
+          "end": 86.986
+        },
+        {
+          "text": "lost.",
+          "start": 86.986,
+          "end": 87.31
+        }
+      ],
+      "id": "s0000c",
+      "start": 85.69,
+      "end": 87.31,
+      "text": "I, I, I, get lost.",
+      "speaker_id": "Speaker 2",
+      "text_original": "I, I, I, get lost."
+    },
+    {
+      "words": [
+        {
+          "text": "Oh",
+          "start": 91.14,
+          "end": 91.6
+        }
+      ],
+      "id": "s0000d",
+      "start": 91.14,
+      "end": 91.6,
+      "text": "Oh",
+      "speaker_id": "Speaker 2",
+      "text_original": "Oh"
+    }
+  ],
+  "dubbed_tracks": {},
+  "scene_cuts": [],
+  "youtube_subs": null,
+  "input_type": "audio",
+  "source_lang_override": "en",
+  "segments_write_rev": 1,
+  "segments_rev": 1,
+  "segment_clones": {
+    "s00000": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00000.wav",
+      "ref_text": "Liberty City is in shock today as the police and emergency services deal with the aftermath.",
+      "duration": 4.48
+    },
+    "s00002": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00002.wav",
+      "ref_text": "As yet, no details have been released about the prisoners being transferred in the convoy, and no group has claimed responsibility.",
+      "duration": 5.88
+    },
+    "s00003": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00003.wav",
+      "ref_text": "The convoy left police headquarters early this morning for a",
+      "duration": 3.0
+    },
+    "s00004": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00004.wav",
+      "ref_text": "routine transfer of felons to Liberty Penitentiary. The attack took place on the Callahan Bridge.",
+      "duration": 4.97
+    },
+    "s00006": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00006.wav",
+      "ref_text": "Some of the convicts are thought to have perished in the explosion that followed the initial attack.",
+      "duration": 3.52
+    },
+    "s00007": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00007.wav",
+      "ref_text": "revelations as to the professionalism of the attack struck police hours after work when I didn't",
+      "duration": 4.48
+    },
+    "s00008": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00008.wav",
+      "ref_text": "of the missing felons were further hampered by an attack by computer hackers on police headquarter database.",
+      "duration": 5.68
+    },
+    "s00009": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s00009.wav",
+      "ref_text": "With the Porter-Tonnell project falling behind schedule, this disaster leads Portland isolated from the rest of the city.",
+      "duration": 5.66
+    },
+    "s0000a": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s0000a.wav",
+      "ref_text": "Come on",
+      "duration": 4.94
+    },
+    "s0000b": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/seg_ref_s0000b.wav",
+      "ref_text": "It's not prone to kill you. You gonna be sorry.",
+      "duration": 5.29
+    }
+  },
+  "speaker_clones": {
+    "Speaker 1": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/voice_speaker_1.wav",
+      "ref_text": "As yet, no details have been released about the prisoners being transferred in the convoy, and no group has claimed responsibilification of the missing felons were further hampered by an attack by computer hackers on police headquarter database.",
+      "duration": 11.58,
+      "source_count": 2
+    },
+    "Speaker 3": {
+      "ref_audio": "/Users/Ronci/Library/Application Support/OmniVoice/dub_jobs/859d578e-e1b8-4913-8a74-abda39feaa29/refs/8a1d002dd49c/voice_speaker_3.wav",
+      "ref_text": "Come on In your dick head, it's not prone to kill you you gonna be sorry",
+      "duration": 10.25,
+      "source_count": 2
+    }
+  },
+  "cast_sources": {
+    "Speaker 1": {
+      "duration": 11.58,
+      "source_count": 2,
+      "kind": "speaker"
+    },
+    "Speaker 3": {
+      "duration": 10.25,
+      "source_count": 2,
+      "kind": "speaker"
+    }
+  },
+  "per_segment_refs": true,
+  "ref_run": "8a1d002dd49c",
+  "source_lang": "en",
+  "source_lang_detection_missing": false,
+  "full_transcript": "Liberty City is in shock today as the police and emergency services deal with the aftermath of a devastating attack on a police convoy this morning. As yet, no details have been released about the prisoners being transferred in the convoy and no group has claimed responsibility. The convoy left police headquarters early this morning for a routine transfer of felons to liberty and attentionary. The attack took place on the Callahan Bridge, leaving few witnesses and the bridge itself severely damaged. Some of the convicts are thought to have perished in the explosion that followed the initial attack. Revelations as to the professionalism of the attack struck police hours afterward when identification of the missing felons were further hampered by an attack by computer hackers on police headquarters databases. With the Porter-Tonnell project falling behind schedule, this disaster leaves Portland isolated from the rest of the city. Come on, say in your dickhead. It's no problem to kill you. You gonna be sorry. I, I, I, get lost. Oh",
+  "transcription_complete": true
+}

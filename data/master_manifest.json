@@ -1,0 +1,1559 @@
+[
+  {
+    "index": 0,
+    "filename": "BET.mp3",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 0.0,
+    "end": 36.9371,
+    "duration": 36.9371,
+    "original_format": "mp3"
+  },
+  {
+    "index": 1,
+    "filename": "cat1.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 36.9371,
+    "end": 38.5604,
+    "duration": 1.6232,
+    "original_format": "wav"
+  },
+  {
+    "index": 2,
+    "filename": "lib_a.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 38.5604,
+    "end": 41.927,
+    "duration": 3.3667,
+    "original_format": "wav"
+  },
+  {
+    "index": 3,
+    "filename": "lib_a1.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 41.927,
+    "end": 44.8308,
+    "duration": 2.9038,
+    "original_format": "wav"
+  },
+  {
+    "index": 4,
+    "filename": "lib_a2.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 44.8308,
+    "end": 47.2716,
+    "duration": 2.4408,
+    "original_format": "wav"
+  },
+  {
+    "index": 5,
+    "filename": "lib_b.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 47.2716,
+    "end": 53.7104,
+    "duration": 6.4388,
+    "original_format": "wav"
+  },
+  {
+    "index": 6,
+    "filename": "lib_c.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 53.7104,
+    "end": 56.5721,
+    "duration": 2.8617,
+    "original_format": "wav"
+  },
+  {
+    "index": 7,
+    "filename": "lib_d.wav",
+    "group": "01_Prologue_and_Tutorial",
+    "start": 56.5721,
+    "end": 57.8767,
+    "duration": 1.3046,
+    "original_format": "wav"
+  },
+  {
+    "index": 8,
+    "filename": "l1_lg.mp3",
+    "group": "02_Luigi_Goterelli",
+    "start": 57.8767,
+    "end": 123.6007,
+    "duration": 65.7241,
+    "original_format": "mp3"
+  },
+  {
+    "index": 9,
+    "filename": "l2_dsb.mp3",
+    "group": "02_Luigi_Goterelli",
+    "start": 123.6007,
+    "end": 157.3771,
+    "duration": 33.7763,
+    "original_format": "mp3"
+  },
+  {
+    "index": 10,
+    "filename": "l2_a.wav",
+    "group": "02_Luigi_Goterelli",
+    "start": 157.3771,
+    "end": 162.5533,
+    "duration": 5.1763,
+    "original_format": "wav"
+  },
+  {
+    "index": 11,
+    "filename": "l3_dm.mp3",
+    "group": "02_Luigi_Goterelli",
+    "start": 162.5533,
+    "end": 192.7509,
+    "duration": 30.1976,
+    "original_format": "mp3"
+  },
+  {
+    "index": 12,
+    "filename": "l4_pap.mp3",
+    "group": "02_Luigi_Goterelli",
+    "start": 192.7509,
+    "end": 215.608,
+    "duration": 22.8571,
+    "original_format": "mp3"
+  },
+  {
+    "index": 13,
+    "filename": "l5_tfb.mp3",
+    "group": "02_Luigi_Goterelli",
+    "start": 215.608,
+    "end": 243.6374,
+    "duration": 28.0294,
+    "original_format": "mp3"
+  },
+  {
+    "index": 14,
+    "filename": "j0_dm2.mp3",
+    "group": "03_Joey_Leone",
+    "start": 243.6374,
+    "end": 272.2676,
+    "duration": 28.6302,
+    "original_format": "mp3"
+  },
+  {
+    "index": 15,
+    "filename": "j1_lfl.mp3",
+    "group": "03_Joey_Leone",
+    "start": 272.2676,
+    "end": 304.0325,
+    "duration": 31.7649,
+    "original_format": "mp3"
+  },
+  {
+    "index": 16,
+    "filename": "j2_kcl.mp3",
+    "group": "03_Joey_Leone",
+    "start": 304.0325,
+    "end": 336.7901,
+    "duration": 32.7576,
+    "original_format": "mp3"
+  },
+  {
+    "index": 17,
+    "filename": "j3_vh.mp3",
+    "group": "03_Joey_Leone",
+    "start": 336.7901,
+    "end": 365.2113,
+    "duration": 28.4212,
+    "original_format": "mp3"
+  },
+  {
+    "index": 18,
+    "filename": "j4_eth.mp3",
+    "group": "03_Joey_Leone",
+    "start": 365.2113,
+    "end": 390.1321,
+    "duration": 24.9208,
+    "original_format": "mp3"
+  },
+  {
+    "index": 19,
+    "filename": "j4_a.wav",
+    "group": "03_Joey_Leone",
+    "start": 390.1321,
+    "end": 392.615,
+    "duration": 2.4829,
+    "original_format": "wav"
+  },
+  {
+    "index": 20,
+    "filename": "j4_b.wav",
+    "group": "03_Joey_Leone",
+    "start": 392.615,
+    "end": 395.8555,
+    "duration": 3.2404,
+    "original_format": "wav"
+  },
+  {
+    "index": 21,
+    "filename": "j4_c.wav",
+    "group": "03_Joey_Leone",
+    "start": 395.8555,
+    "end": 398.8013,
+    "duration": 2.9459,
+    "original_format": "wav"
+  },
+  {
+    "index": 22,
+    "filename": "j4_d.wav",
+    "group": "03_Joey_Leone",
+    "start": 398.8013,
+    "end": 402.8834,
+    "duration": 4.0821,
+    "original_format": "wav"
+  },
+  {
+    "index": 23,
+    "filename": "j4_e.wav",
+    "group": "03_Joey_Leone",
+    "start": 402.8834,
+    "end": 405.3242,
+    "duration": 2.4408,
+    "original_format": "wav"
+  },
+  {
+    "index": 24,
+    "filename": "j4_f.wav",
+    "group": "03_Joey_Leone",
+    "start": 405.3242,
+    "end": 407.0917,
+    "duration": 1.7675,
+    "original_format": "wav"
+  },
+  {
+    "index": 25,
+    "filename": "j4t_1.wav",
+    "group": "03_Joey_Leone",
+    "start": 407.0917,
+    "end": 412.0576,
+    "duration": 4.9658,
+    "original_format": "wav"
+  },
+  {
+    "index": 26,
+    "filename": "j4t_2.wav",
+    "group": "03_Joey_Leone",
+    "start": 412.0576,
+    "end": 414.4984,
+    "duration": 2.4408,
+    "original_format": "wav"
+  },
+  {
+    "index": 27,
+    "filename": "j4t_3.wav",
+    "group": "03_Joey_Leone",
+    "start": 414.4984,
+    "end": 416.813,
+    "duration": 2.3146,
+    "original_format": "wav"
+  },
+  {
+    "index": 28,
+    "filename": "j4t_4.wav",
+    "group": "03_Joey_Leone",
+    "start": 416.813,
+    "end": 418.3701,
+    "duration": 1.5571,
+    "original_format": "wav"
+  },
+  {
+    "index": 29,
+    "filename": "j5_dst.mp3",
+    "group": "03_Joey_Leone",
+    "start": 418.3701,
+    "end": 440.4436,
+    "duration": 22.0735,
+    "original_format": "mp3"
+  },
+  {
+    "index": 30,
+    "filename": "j6_tbj.mp3",
+    "group": "03_Joey_Leone",
+    "start": 440.4436,
+    "end": 463.1963,
+    "duration": 22.7527,
+    "original_format": "mp3"
+  },
+  {
+    "index": 31,
+    "filename": "j6_1.wav",
+    "group": "03_Joey_Leone",
+    "start": 463.1963,
+    "end": 467.11,
+    "duration": 3.9138,
+    "original_format": "wav"
+  },
+  {
+    "index": 32,
+    "filename": "j6_a.wav",
+    "group": "03_Joey_Leone",
+    "start": 467.11,
+    "end": 468.7513,
+    "duration": 1.6413,
+    "original_format": "wav"
+  },
+  {
+    "index": 33,
+    "filename": "j6_b.wav",
+    "group": "03_Joey_Leone",
+    "start": 468.7513,
+    "end": 470.7292,
+    "duration": 1.9779,
+    "original_format": "wav"
+  },
+  {
+    "index": 34,
+    "filename": "j6_c.wav",
+    "group": "03_Joey_Leone",
+    "start": 470.7292,
+    "end": 471.3605,
+    "duration": 0.6313,
+    "original_format": "wav"
+  },
+  {
+    "index": 35,
+    "filename": "j6_d.wav",
+    "group": "03_Joey_Leone",
+    "start": 471.3605,
+    "end": 474.2567,
+    "duration": 2.8962,
+    "original_format": "wav"
+  },
+  {
+    "index": 36,
+    "filename": "t1_tol.mp3",
+    "group": "04_Toni_Cipriani",
+    "start": 474.2567,
+    "end": 507.6673,
+    "duration": 33.4106,
+    "original_format": "mp3"
+  },
+  {
+    "index": 37,
+    "filename": "t2_tpu.mp3",
+    "group": "04_Toni_Cipriani",
+    "start": 507.6673,
+    "end": 530.0543,
+    "duration": 22.3869,
+    "original_format": "mp3"
+  },
+  {
+    "index": 38,
+    "filename": "t3_mas.mp3",
+    "group": "04_Toni_Cipriani",
+    "start": 530.0543,
+    "end": 551.1612,
+    "duration": 21.1069,
+    "original_format": "mp3"
+  },
+  {
+    "index": 39,
+    "filename": "t3_a.wav",
+    "group": "04_Toni_Cipriani",
+    "start": 551.1612,
+    "end": 551.7083,
+    "duration": 0.5471,
+    "original_format": "wav"
+  },
+  {
+    "index": 40,
+    "filename": "t3_b.wav",
+    "group": "04_Toni_Cipriani",
+    "start": 551.7083,
+    "end": 552.55,
+    "duration": 0.8417,
+    "original_format": "wav"
+  },
+  {
+    "index": 41,
+    "filename": "t3_c.wav",
+    "group": "04_Toni_Cipriani",
+    "start": 552.55,
+    "end": 553.56,
+    "duration": 1.01,
+    "original_format": "wav"
+  },
+  {
+    "index": 42,
+    "filename": "t4_tat.mp3",
+    "group": "04_Toni_Cipriani",
+    "start": 553.56,
+    "end": 578.2718,
+    "duration": 24.7118,
+    "original_format": "mp3"
+  },
+  {
+    "index": 43,
+    "filename": "t4_a.wav",
+    "group": "04_Toni_Cipriani",
+    "start": 578.2718,
+    "end": 581.335,
+    "duration": 3.0631,
+    "original_format": "wav"
+  },
+  {
+    "index": 44,
+    "filename": "t5_bf.mp3",
+    "group": "04_Toni_Cipriani",
+    "start": 581.335,
+    "end": 610.2003,
+    "duration": 28.8653,
+    "original_format": "mp3"
+  },
+  {
+    "index": 45,
+    "filename": "s0_mas.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 610.2003,
+    "end": 658.1088,
+    "duration": 47.9086,
+    "original_format": "mp3"
+  },
+  {
+    "index": 46,
+    "filename": "s1_pf.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 658.1088,
+    "end": 703.2484,
+    "duration": 45.1396,
+    "original_format": "mp3"
+  },
+  {
+    "index": 47,
+    "filename": "s1_a.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 703.2484,
+    "end": 706.1943,
+    "duration": 2.9459,
+    "original_format": "wav"
+  },
+  {
+    "index": 48,
+    "filename": "s1_a1.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 706.1943,
+    "end": 710.0239,
+    "duration": 3.8296,
+    "original_format": "wav"
+  },
+  {
+    "index": 49,
+    "filename": "s1_b.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 710.0239,
+    "end": 712.2122,
+    "duration": 2.1883,
+    "original_format": "wav"
+  },
+  {
+    "index": 50,
+    "filename": "s1_c.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 712.2122,
+    "end": 713.4327,
+    "duration": 1.2204,
+    "original_format": "wav"
+  },
+  {
+    "index": 51,
+    "filename": "s1_c1.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 713.4327,
+    "end": 717.7252,
+    "duration": 4.2925,
+    "original_format": "wav"
+  },
+  {
+    "index": 52,
+    "filename": "s1_d.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 717.7252,
+    "end": 720.3344,
+    "duration": 2.6092,
+    "original_format": "wav"
+  },
+  {
+    "index": 53,
+    "filename": "s1_e.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 720.3344,
+    "end": 723.5748,
+    "duration": 3.2404,
+    "original_format": "wav"
+  },
+  {
+    "index": 54,
+    "filename": "s1_f.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 723.5748,
+    "end": 725.4686,
+    "duration": 1.8938,
+    "original_format": "wav"
+  },
+  {
+    "index": 55,
+    "filename": "s1_g.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 725.4686,
+    "end": 729.4665,
+    "duration": 3.9979,
+    "original_format": "wav"
+  },
+  {
+    "index": 56,
+    "filename": "s1_h.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 729.4665,
+    "end": 732.4165,
+    "duration": 2.95,
+    "original_format": "wav"
+  },
+  {
+    "index": 57,
+    "filename": "s1_i.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 732.4165,
+    "end": 733.2582,
+    "duration": 0.8417,
+    "original_format": "wav"
+  },
+  {
+    "index": 58,
+    "filename": "s1_j.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 733.2582,
+    "end": 735.5307,
+    "duration": 2.2725,
+    "original_format": "wav"
+  },
+  {
+    "index": 59,
+    "filename": "s1_k.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 735.5307,
+    "end": 740.7911,
+    "duration": 5.2604,
+    "original_format": "wav"
+  },
+  {
+    "index": 60,
+    "filename": "s1_l.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 740.7911,
+    "end": 743.4845,
+    "duration": 2.6933,
+    "original_format": "wav"
+  },
+  {
+    "index": 61,
+    "filename": "s2_ctg.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 743.4845,
+    "end": 783.4779,
+    "duration": 39.9935,
+    "original_format": "mp3"
+  },
+  {
+    "index": 62,
+    "filename": "s2_ctg2.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 783.4779,
+    "end": 823.6804,
+    "duration": 40.2024,
+    "original_format": "mp3"
+  },
+  {
+    "index": 63,
+    "filename": "s3_rtc.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 823.6804,
+    "end": 863.7783,
+    "duration": 40.098,
+    "original_format": "mp3"
+  },
+  {
+    "index": 64,
+    "filename": "s3_a.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 863.7783,
+    "end": 867.103,
+    "duration": 3.3246,
+    "original_format": "wav"
+  },
+  {
+    "index": 65,
+    "filename": "s3_b.wav",
+    "group": "05_Salvatore_Leone",
+    "start": 867.103,
+    "end": 870.613,
+    "duration": 3.51,
+    "original_format": "wav"
+  },
+  {
+    "index": 66,
+    "filename": "s4_bdba.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 870.613,
+    "end": 888.4546,
+    "duration": 17.8416,
+    "original_format": "mp3"
+  },
+  {
+    "index": 67,
+    "filename": "s4_bdbb.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 888.4546,
+    "end": 904.964,
+    "duration": 16.5094,
+    "original_format": "mp3"
+  },
+  {
+    "index": 68,
+    "filename": "s4_bdbd.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 904.964,
+    "end": 938.7403,
+    "duration": 33.7763,
+    "original_format": "mp3"
+  },
+  {
+    "index": 69,
+    "filename": "s5_lrq.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 938.7403,
+    "end": 966.822,
+    "duration": 28.0816,
+    "original_format": "mp3"
+  },
+  {
+    "index": 70,
+    "filename": "s5_lrqb.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 966.822,
+    "end": 1006.9199,
+    "duration": 40.098,
+    "original_format": "mp3"
+  },
+  {
+    "index": 71,
+    "filename": "s5_lrqc.mp3",
+    "group": "05_Salvatore_Leone",
+    "start": 1006.9199,
+    "end": 1037.013,
+    "duration": 30.0931,
+    "original_format": "mp3"
+  },
+  {
+    "index": 72,
+    "filename": "a1_sso.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1037.013,
+    "end": 1080.4247,
+    "duration": 43.4117,
+    "original_format": "wav"
+  },
+  {
+    "index": 73,
+    "filename": "A1_a.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1080.4247,
+    "end": 1081.7714,
+    "duration": 1.3467,
+    "original_format": "wav"
+  },
+  {
+    "index": 74,
+    "filename": "a2_pp.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1081.7714,
+    "end": 1101.5335,
+    "duration": 19.7621,
+    "original_format": "wav"
+  },
+  {
+    "index": 75,
+    "filename": "a3_ss.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1101.5335,
+    "end": 1142.2609,
+    "duration": 40.7274,
+    "original_format": "wav"
+  },
+  {
+    "index": 76,
+    "filename": "a3_a.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1142.2609,
+    "end": 1144.5809,
+    "duration": 2.32,
+    "original_format": "wav"
+  },
+  {
+    "index": 77,
+    "filename": "a4_pdr.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1144.5809,
+    "end": 1176.0521,
+    "duration": 31.4712,
+    "original_format": "wav"
+  },
+  {
+    "index": 78,
+    "filename": "a4_a.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1176.0521,
+    "end": 1178.1142,
+    "duration": 2.0621,
+    "original_format": "wav"
+  },
+  {
+    "index": 79,
+    "filename": "a4_b.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1178.1142,
+    "end": 1180.1763,
+    "duration": 2.0621,
+    "original_format": "wav"
+  },
+  {
+    "index": 80,
+    "filename": "a4_c.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1180.1763,
+    "end": 1182.3646,
+    "duration": 2.1883,
+    "original_format": "wav"
+  },
+  {
+    "index": 81,
+    "filename": "a4_d.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1182.3646,
+    "end": 1184.5109,
+    "duration": 2.1463,
+    "original_format": "wav"
+  },
+  {
+    "index": 82,
+    "filename": "a5_k2ft.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1184.5109,
+    "end": 1203.9027,
+    "duration": 19.3918,
+    "original_format": "wav"
+  },
+  {
+    "index": 83,
+    "filename": "a5_a.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1203.9027,
+    "end": 1207.47,
+    "duration": 3.5673,
+    "original_format": "wav"
+  },
+  {
+    "index": 84,
+    "filename": "a6_bait.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1207.47,
+    "end": 1239.1726,
+    "duration": 31.7026,
+    "original_format": "wav"
+  },
+  {
+    "index": 85,
+    "filename": "a7_etg.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1239.1726,
+    "end": 1270.181,
+    "duration": 31.0084,
+    "original_format": "wav"
+  },
+  {
+    "index": 86,
+    "filename": "a8_ps.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1270.181,
+    "end": 1314.3333,
+    "duration": 44.1522,
+    "original_format": "wav"
+  },
+  {
+    "index": 87,
+    "filename": "a9_asd.wav",
+    "group": "06_Asuka_Kasen",
+    "start": 1314.3333,
+    "end": 1328.2639,
+    "duration": 13.9306,
+    "original_format": "wav"
+  },
+  {
+    "index": 88,
+    "filename": "k1_kbo.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1328.2639,
+    "end": 1361.7268,
+    "duration": 33.4629,
+    "original_format": "mp3"
+  },
+  {
+    "index": 89,
+    "filename": "k1_a.wav",
+    "group": "07_Kenji_Kasen",
+    "start": 1361.7268,
+    "end": 1364.3085,
+    "duration": 2.5818,
+    "original_format": "wav"
+  },
+  {
+    "index": 90,
+    "filename": "k1_b.wav",
+    "group": "07_Kenji_Kasen",
+    "start": 1364.3085,
+    "end": 1365.9077,
+    "duration": 1.5992,
+    "original_format": "wav"
+  },
+  {
+    "index": 91,
+    "filename": "k2_gis.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1365.9077,
+    "end": 1407.0767,
+    "duration": 41.169,
+    "original_format": "mp3"
+  },
+  {
+    "index": 92,
+    "filename": "k3_ds.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1407.0767,
+    "end": 1433.2253,
+    "duration": 26.1486,
+    "original_format": "mp3"
+  },
+  {
+    "index": 93,
+    "filename": "K3_A.wav",
+    "group": "07_Kenji_Kasen",
+    "start": 1433.2253,
+    "end": 1434.6771,
+    "duration": 1.4519,
+    "original_format": "wav"
+  },
+  {
+    "index": 94,
+    "filename": "k4_shi.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1434.6771,
+    "end": 1454.922,
+    "duration": 20.2449,
+    "original_format": "mp3"
+  },
+  {
+    "index": 95,
+    "filename": "k4_shi2.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1454.922,
+    "end": 1468.2967,
+    "duration": 13.3747,
+    "original_format": "mp3"
+  },
+  {
+    "index": 96,
+    "filename": "k5_sd.mp3",
+    "group": "07_Kenji_Kasen",
+    "start": 1468.2967,
+    "end": 1503.6404,
+    "duration": 35.3437,
+    "original_format": "mp3"
+  },
+  {
+    "index": 97,
+    "filename": "r0_pdr2.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1503.6404,
+    "end": 1540.3947,
+    "duration": 36.7543,
+    "original_format": "mp3"
+  },
+  {
+    "index": 98,
+    "filename": "r1_sw.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1540.3947,
+    "end": 1562.651,
+    "duration": 22.2563,
+    "original_format": "mp3"
+  },
+  {
+    "index": 99,
+    "filename": "r1_a.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1562.651,
+    "end": 1565.3749,
+    "duration": 2.7239,
+    "original_format": "wav"
+  },
+  {
+    "index": 100,
+    "filename": "r2_ap.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1565.3749,
+    "end": 1605.1333,
+    "duration": 39.7584,
+    "original_format": "mp3"
+  },
+  {
+    "index": 101,
+    "filename": "r2_a.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1605.1333,
+    "end": 1607.5741,
+    "duration": 2.4408,
+    "original_format": "wav"
+  },
+  {
+    "index": 102,
+    "filename": "r2_b.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1607.5741,
+    "end": 1611.025,
+    "duration": 3.4508,
+    "original_format": "wav"
+  },
+  {
+    "index": 103,
+    "filename": "r2_c.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1611.025,
+    "end": 1613.8446,
+    "duration": 2.8196,
+    "original_format": "wav"
+  },
+  {
+    "index": 104,
+    "filename": "r2_d.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1613.8446,
+    "end": 1615.1071,
+    "duration": 1.2625,
+    "original_format": "wav"
+  },
+  {
+    "index": 105,
+    "filename": "r2_e.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1615.1071,
+    "end": 1617.6742,
+    "duration": 2.5671,
+    "original_format": "wav"
+  },
+  {
+    "index": 106,
+    "filename": "r2_f.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1617.6742,
+    "end": 1621.4196,
+    "duration": 3.7454,
+    "original_format": "wav"
+  },
+  {
+    "index": 107,
+    "filename": "r2_g.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1621.4196,
+    "end": 1626.7221,
+    "duration": 5.3025,
+    "original_format": "wav"
+  },
+  {
+    "index": 108,
+    "filename": "r2_h.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1626.7221,
+    "end": 1628.9946,
+    "duration": 2.2725,
+    "original_format": "wav"
+  },
+  {
+    "index": 109,
+    "filename": "r3_ed.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1628.9946,
+    "end": 1672.7236,
+    "duration": 43.729,
+    "original_format": "mp3"
+  },
+  {
+    "index": 110,
+    "filename": "r4_gf.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1672.7236,
+    "end": 1694.3008,
+    "duration": 21.5771,
+    "original_format": "mp3"
+  },
+  {
+    "index": 111,
+    "filename": "r5_pb.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1694.3008,
+    "end": 1714.6501,
+    "duration": 20.3494,
+    "original_format": "mp3"
+  },
+  {
+    "index": 112,
+    "filename": "r5_a.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1714.6501,
+    "end": 1718.0417,
+    "duration": 3.3916,
+    "original_format": "wav"
+  },
+  {
+    "index": 113,
+    "filename": "r6_mm.mp3",
+    "group": "08_Ray_Machowski",
+    "start": 1718.0417,
+    "end": 1741.4735,
+    "duration": 23.4318,
+    "original_format": "mp3"
+  },
+  {
+    "index": 114,
+    "filename": "r6_a.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1741.4735,
+    "end": 1742.5677,
+    "duration": 1.0942,
+    "original_format": "wav"
+  },
+  {
+    "index": 115,
+    "filename": "r6_a1.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1742.5677,
+    "end": 1745.6398,
+    "duration": 3.0721,
+    "original_format": "wav"
+  },
+  {
+    "index": 116,
+    "filename": "r6_b.wav",
+    "group": "08_Ray_Machowski",
+    "start": 1745.6398,
+    "end": 1746.3973,
+    "duration": 0.7575,
+    "original_format": "wav"
+  },
+  {
+    "index": 117,
+    "filename": "d1_stog.mp3",
+    "group": "09_Donald_Love",
+    "start": 1746.3973,
+    "end": 1792.4773,
+    "duration": 46.08,
+    "original_format": "mp3"
+  },
+  {
+    "index": 118,
+    "filename": "d2_kk.mp3",
+    "group": "09_Donald_Love",
+    "start": 1792.4773,
+    "end": 1835.292,
+    "duration": 42.8147,
+    "original_format": "mp3"
+  },
+  {
+    "index": 119,
+    "filename": "d3_ado.mp3",
+    "group": "09_Donald_Love",
+    "start": 1835.292,
+    "end": 1862.172,
+    "duration": 26.88,
+    "original_format": "mp3"
+  },
+  {
+    "index": 120,
+    "filename": "d4_gta.mp3",
+    "group": "09_Donald_Love",
+    "start": 1862.172,
+    "end": 1889.9663,
+    "duration": 27.7943,
+    "original_format": "mp3"
+  },
+  {
+    "index": 121,
+    "filename": "d4_gta2.mp3",
+    "group": "09_Donald_Love",
+    "start": 1889.9663,
+    "end": 1978.443,
+    "duration": 88.4767,
+    "original_format": "mp3"
+  },
+  {
+    "index": 122,
+    "filename": "d5_es.mp3",
+    "group": "09_Donald_Love",
+    "start": 1978.443,
+    "end": 1997.5385,
+    "duration": 19.0955,
+    "original_format": "mp3"
+  },
+  {
+    "index": 123,
+    "filename": "d6_sts.mp3",
+    "group": "09_Donald_Love",
+    "start": 1997.5385,
+    "end": 2017.7312,
+    "duration": 20.1927,
+    "original_format": "mp3"
+  },
+  {
+    "index": 124,
+    "filename": "d7_mld.mp3",
+    "group": "09_Donald_Love",
+    "start": 2017.7312,
+    "end": 2034.4757,
+    "duration": 16.7445,
+    "original_format": "mp3"
+  },
+  {
+    "index": 125,
+    "filename": "c1_tex.mp3",
+    "group": "10_Catalina_and_Climax",
+    "start": 2034.4757,
+    "end": 2099.7034,
+    "duration": 65.2278,
+    "original_format": "mp3"
+  },
+  {
+    "index": 126,
+    "filename": "END.mp3",
+    "group": "10_Catalina_and_Climax",
+    "start": 2099.7034,
+    "end": 2636.9638,
+    "duration": 537.2604,
+    "original_format": "mp3"
+  },
+  {
+    "index": 127,
+    "filename": "mt_ph1.mp3",
+    "group": "11_Payphone_Marty_Chonks",
+    "start": 2636.9638,
+    "end": 2664.2879,
+    "duration": 27.3241,
+    "original_format": "mp3"
+  },
+  {
+    "index": 128,
+    "filename": "mt_ph2.mp3",
+    "group": "11_Payphone_Marty_Chonks",
+    "start": 2664.2879,
+    "end": 2691.2985,
+    "duration": 27.0106,
+    "original_format": "mp3"
+  },
+  {
+    "index": 129,
+    "filename": "mt_ph3.mp3",
+    "group": "11_Payphone_Marty_Chonks",
+    "start": 2691.2985,
+    "end": 2711.3606,
+    "duration": 20.062,
+    "original_format": "mp3"
+  },
+  {
+    "index": 130,
+    "filename": "mt_ph4.mp3",
+    "group": "11_Payphone_Marty_Chonks",
+    "start": 2711.3606,
+    "end": 2731.3965,
+    "duration": 20.0359,
+    "original_format": "mp3"
+  },
+  {
+    "index": 131,
+    "filename": "el_ph1.mp3",
+    "group": "12_Payphone_El_Burro",
+    "start": 2731.3965,
+    "end": 2753.6006,
+    "duration": 22.2041,
+    "original_format": "mp3"
+  },
+  {
+    "index": 132,
+    "filename": "el_ph2.mp3",
+    "group": "12_Payphone_El_Burro",
+    "start": 2753.6006,
+    "end": 2789.6496,
+    "duration": 36.049,
+    "original_format": "mp3"
+  },
+  {
+    "index": 133,
+    "filename": "el_ph3.mp3",
+    "group": "12_Payphone_El_Burro",
+    "start": 2789.6496,
+    "end": 2825.6463,
+    "duration": 35.9967,
+    "original_format": "mp3"
+  },
+  {
+    "index": 134,
+    "filename": "el_ph4.mp3",
+    "group": "12_Payphone_El_Burro",
+    "start": 2825.6463,
+    "end": 2853.6757,
+    "duration": 28.0294,
+    "original_format": "mp3"
+  },
+  {
+    "index": 135,
+    "filename": "el3_a.wav",
+    "group": "12_Payphone_El_Burro",
+    "start": 2853.6757,
+    "end": 2856.5826,
+    "duration": 2.9069,
+    "original_format": "wav"
+  },
+  {
+    "index": 136,
+    "filename": "yd_ph1.mp3",
+    "group": "13_Payphone_King_Courtney",
+    "start": 2856.5826,
+    "end": 2883.5671,
+    "duration": 26.9845,
+    "original_format": "mp3"
+  },
+  {
+    "index": 137,
+    "filename": "yd_ph2.mp3",
+    "group": "13_Payphone_King_Courtney",
+    "start": 2883.5671,
+    "end": 2899.1883,
+    "duration": 15.6212,
+    "original_format": "mp3"
+  },
+  {
+    "index": 138,
+    "filename": "yd_ph3.mp3",
+    "group": "13_Payphone_King_Courtney",
+    "start": 2899.1883,
+    "end": 2921.0528,
+    "duration": 21.8645,
+    "original_format": "mp3"
+  },
+  {
+    "index": 139,
+    "filename": "yd_ph4.mp3",
+    "group": "13_Payphone_King_Courtney",
+    "start": 2921.0528,
+    "end": 2931.5018,
+    "duration": 10.449,
+    "original_format": "mp3"
+  },
+  {
+    "index": 140,
+    "filename": "hd_ph1.mp3",
+    "group": "14_Payphone_D-Ice",
+    "start": 2931.5018,
+    "end": 2963.4496,
+    "duration": 31.9478,
+    "original_format": "mp3"
+  },
+  {
+    "index": 141,
+    "filename": "hd_ph2.mp3",
+    "group": "14_Payphone_D-Ice",
+    "start": 2963.4496,
+    "end": 2980.3769,
+    "duration": 16.9273,
+    "original_format": "mp3"
+  },
+  {
+    "index": 142,
+    "filename": "hd_ph3.mp3",
+    "group": "14_Payphone_D-Ice",
+    "start": 2980.3769,
+    "end": 3003.6259,
+    "duration": 23.249,
+    "original_format": "mp3"
+  },
+  {
+    "index": 143,
+    "filename": "hd_ph4.mp3",
+    "group": "14_Payphone_D-Ice",
+    "start": 3003.6259,
+    "end": 3025.7777,
+    "duration": 22.1518,
+    "original_format": "mp3"
+  },
+  {
+    "index": 144,
+    "filename": "hd_ph5.mp3",
+    "group": "14_Payphone_D-Ice",
+    "start": 3025.7777,
+    "end": 3047.9296,
+    "duration": 22.1518,
+    "original_format": "mp3"
+  },
+  {
+    "index": 145,
+    "filename": "h5_a.wav",
+    "group": "14_Payphone_D-Ice",
+    "start": 3047.9296,
+    "end": 3053.4004,
+    "duration": 5.4708,
+    "original_format": "wav"
+  },
+  {
+    "index": 146,
+    "filename": "h5_b.wav",
+    "group": "14_Payphone_D-Ice",
+    "start": 3053.4004,
+    "end": 3055.6308,
+    "duration": 2.2304,
+    "original_format": "wav"
+  },
+  {
+    "index": 147,
+    "filename": "h5_c.wav",
+    "group": "14_Payphone_D-Ice",
+    "start": 3055.6308,
+    "end": 3057.3562,
+    "duration": 1.7254,
+    "original_format": "wav"
+  },
+  {
+    "index": 148,
+    "filename": "AMMU_A.wav",
+    "group": "15_Ammu-Nation",
+    "start": 3057.3562,
+    "end": 3058.7871,
+    "duration": 1.4308,
+    "original_format": "wav"
+  },
+  {
+    "index": 149,
+    "filename": "AMMU_b.wav",
+    "group": "15_Ammu-Nation",
+    "start": 3058.7871,
+    "end": 3060.0917,
+    "duration": 1.3046,
+    "original_format": "wav"
+  },
+  {
+    "index": 150,
+    "filename": "AMMU_C.wav",
+    "group": "15_Ammu-Nation",
+    "start": 3060.0917,
+    "end": 3062.6588,
+    "duration": 2.5671,
+    "original_format": "wav"
+  },
+  {
+    "index": 151,
+    "filename": "yd2_ass.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3062.6588,
+    "end": 3065.8571,
+    "duration": 3.1983,
+    "original_format": "wav"
+  },
+  {
+    "index": 152,
+    "filename": "yd2_b.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3065.8571,
+    "end": 3070.7809,
+    "duration": 4.9238,
+    "original_format": "wav"
+  },
+  {
+    "index": 153,
+    "filename": "yd2_c.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3070.7809,
+    "end": 3072.8009,
+    "duration": 2.02,
+    "original_format": "wav"
+  },
+  {
+    "index": 154,
+    "filename": "yd2_c1.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3072.8009,
+    "end": 3073.8951,
+    "duration": 1.0942,
+    "original_format": "wav"
+  },
+  {
+    "index": 155,
+    "filename": "yd2_d.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3073.8951,
+    "end": 3077.0092,
+    "duration": 3.1142,
+    "original_format": "wav"
+  },
+  {
+    "index": 156,
+    "filename": "yd2_e.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3077.0092,
+    "end": 3079.8709,
+    "duration": 2.8617,
+    "original_format": "wav"
+  },
+  {
+    "index": 157,
+    "filename": "yd2_f.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3079.8709,
+    "end": 3083.2376,
+    "duration": 3.3667,
+    "original_format": "wav"
+  },
+  {
+    "index": 158,
+    "filename": "yd2_g.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3083.2376,
+    "end": 3086.2676,
+    "duration": 3.03,
+    "original_format": "wav"
+  },
+  {
+    "index": 159,
+    "filename": "yd2_h.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3086.2676,
+    "end": 3090.6022,
+    "duration": 4.3346,
+    "original_format": "wav"
+  },
+  {
+    "index": 160,
+    "filename": "yd2_ok.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3090.6022,
+    "end": 3096.2414,
+    "duration": 5.6392,
+    "original_format": "wav"
+  },
+  {
+    "index": 161,
+    "filename": "YD2_A.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3096.2414,
+    "end": 3102.7222,
+    "duration": 6.4808,
+    "original_format": "wav"
+  },
+  {
+    "index": 162,
+    "filename": "lo2_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3102.7222,
+    "end": 3106.0545,
+    "duration": 3.3323,
+    "original_format": "wav"
+  },
+  {
+    "index": 163,
+    "filename": "lo6_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3106.0545,
+    "end": 3110.3669,
+    "duration": 4.3124,
+    "original_format": "wav"
+  },
+  {
+    "index": 164,
+    "filename": "mf1_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3110.3669,
+    "end": 3114.1965,
+    "duration": 3.8296,
+    "original_format": "wav"
+  },
+  {
+    "index": 165,
+    "filename": "mf2_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3114.1965,
+    "end": 3118.1945,
+    "duration": 3.9979,
+    "original_format": "wav"
+  },
+  {
+    "index": 166,
+    "filename": "mf3_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3118.1945,
+    "end": 3122.5291,
+    "duration": 4.3346,
+    "original_format": "wav"
+  },
+  {
+    "index": 167,
+    "filename": "mf3_b.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3122.5291,
+    "end": 3127.1162,
+    "duration": 4.5871,
+    "original_format": "wav"
+  },
+  {
+    "index": 168,
+    "filename": "mf3_b1.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3127.1162,
+    "end": 3129.052,
+    "duration": 1.9359,
+    "original_format": "wav"
+  },
+  {
+    "index": 169,
+    "filename": "mf3_c.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3129.052,
+    "end": 3134.3124,
+    "duration": 5.2604,
+    "original_format": "wav"
+  },
+  {
+    "index": 170,
+    "filename": "mf4_a.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3134.3124,
+    "end": 3136.2603,
+    "duration": 1.9479,
+    "original_format": "wav"
+  },
+  {
+    "index": 171,
+    "filename": "mf4_b.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3136.2603,
+    "end": 3140.2282,
+    "duration": 3.9679,
+    "original_format": "wav"
+  },
+  {
+    "index": 172,
+    "filename": "mf4_c.wav",
+    "group": "16_Yardies_and_Mafia_Lines",
+    "start": 3140.2282,
+    "end": 3142.5367,
+    "duration": 2.3086,
+    "original_format": "wav"
+  }
+]
