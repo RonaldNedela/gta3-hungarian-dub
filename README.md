@@ -1,6 +1,6 @@
-# Grand Theft Auto III - Hungarian Voice & Subtitle Dub
+# Grand Theft Auto III - Hungarian Voice, GUI & Subtitle Localization
 
-Complete Hungarian voiceover and in-game subtitle mod for Grand Theft Auto III (2001). Replaces all 174 dialogue tracks (70 cutscene MP3s, 104 gameplay WAVs) while keeping all original sound effects, ambient background audio, and music intact. Includes matching Hungarian subtitles via native GXT font mapping.
+Complete Hungarian voiceover, full GUI menu localization, and in-game subtitles for Grand Theft Auto III (2001). Replaces all 174 dialogue tracks (70 cutscene MP3s, 104 gameplay WAVs) while keeping all original sound effects, ambient background audio, and music intact. Features a fully translated user interface (Main Menu, Pause, Audio, Display, Controls, Stats, HUD) and matching Hungarian subtitles with native GXT RenderWare font mapping.
 
 Compatible with native macOS wrappers, CrossOver, Wine, and standard PC / Windows installations.
 
@@ -14,12 +14,13 @@ Compatible with native macOS wrappers, CrossOver, Wine, and standard PC / Window
    - macOS: `/Applications/Grand Theft Auto III.app/Contents/Resources/GameData/audio/`
    - Windows / CrossOver: `<GTA_DIR>/audio/`
 
-### 2. In-Game Subtitles
+### 2. In-Game Subtitles & Hungarian GUI
 1. Back up your game's `TEXT/` directory.
 2. Copy `text/american.gxt` and `text/english.gxt` into your game's `TEXT/` directory:
    - macOS: `/Applications/Grand Theft Auto III.app/Contents/Resources/GameData/TEXT/`
    - Windows / CrossOver: `<GTA_DIR>/TEXT/`
-3. Turn on Subtitles in the in-game Display menu.
+3. In the game's Options -> Language Setup menu, select **MAGYAR**.
+4. Turn on Subtitles in the in-game Display menu.
 
 Recommended In-Game Audio Settings:
 - SFX Volume: 75% - 85%
@@ -51,9 +52,10 @@ Recommended In-Game Audio Settings:
    - Fast broadcast compression and peak limiting targeting -9.5 dB to -10.5 dB active speech RMS.
    - Dynamic sidechain ducking (-8 dB background attenuation when dialogue is active).
    - Format conversion to exact 2001 Miles Sound System specifications (44.1 kHz 128 kbps CBR MP3, IMA ADPCM / 16-bit PCM WAV).
-7. GXT Subtitle Compiler:
+7. GXT Subtitle & GUI Compiler:
    - GTA III's RenderWare CFont engine does not support UTF-8. The stock European `models/fonts.txd` maps accented letters to legacy byte offsets (128-175).
-   - `scripts/build_hungarian_gxt.py` converts dialogue lines directly from the dub SRTs into `american.gxt` and `english.gxt` using the native glyph codes (`á`, `é`, `í`, `ó`, `ö`, `ú`, `ü`). Missing hungarumlauts fall back to `ö`/`ü` for 100% engine stability without texture patching.
+   - `scripts/build_hungarian_gxt.py` compiles dialogue lines, all frontend GUI menus (Main, Pause, Audio, Display, Controls, Stats), and in-game HUD alerts into `american.gxt` and `english.gxt` using the native glyph codes (`á`, `é`, `í`, `ó`, `ö`, `ú`, `ü`). Missing hungarumlauts fall back to `ö`/`ü` for 100% engine stability without texture patching.
+   - Updates the Language Setup menu (`FEL_ENG`) to directly display **MAGYAR**.
 
 ---
 

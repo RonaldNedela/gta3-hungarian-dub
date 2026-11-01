@@ -200,6 +200,298 @@ def main():
         "JAILB_U": "Jól van, jól van. Kopjatok le."
     }
 
+    # Full Hungarian GUI, HUD, Options, Menus, Controls, and System Translations
+    GUI_AND_SYSTEM_OVERRIDES = {
+        # Language Setup
+        "FEL_ENG": "MAGYAR",
+        "FEL_FRE": "FRANCIA",
+        "FEL_GER": "NÉMET",
+        "FEL_ITA": "OLASZ",
+        "FEL_SPA": "SPANYOL",
+        "FEL_POL": "LENGYEL",
+        "FEL_RUS": "OROSZ",
+        "FEL_JAP": "JAPÁN",
+
+        # Main Menu & Navigation
+        "FEM_MM": "FŐMENÜ",
+        "FEM_OPT": "BEÁLLÍTÁSOK",
+        "FEM_QT": "KILÉPÉS",
+        "FEN_STA": "JÁTÉK INDÍTÁSA",
+        "FET_SGA": "JÁTÉK INDÍTÁSA",
+        "FET_SNG": "ÚJ JÁTÉK INDÍTÁSA",
+        "FET_SAN": "ÚJ JÁTÉK INDÍTÁSA",
+        "FET_NG": "ÚJ JÁTÉK",
+        "FES_NGA": "Új játék",
+        "FES_SG": "ÚJ JÁTÉK",
+        "FEM_RES": "FOLYTATÁS",
+        "FET_PAU": "SZÜNET",
+        "FET_OPT": "BEÁLLÍTÁSOK",
+        "FET_QG": "KILÉPÉS",
+        "FEDS_TB": "VISSZA",
+        "FEDS_XB": "Kiválasztás",
+        "FEM_YES": "IGEN",
+        "FEM_NO": "NEM",
+        "FEM_ON": "BE",
+        "FEM_OFF": "KI",
+        "FEM_AUT": "AUTOMATIKUS",
+        "FEM_LOW": "ALACSONY",
+        "FEM_MED": "KÖZEPES",
+        "FEM_HIG": "MAGAS",
+        "FEM_NRM": "NORMÁL",
+        "FEM_NON": "NINCS",
+        "FEM_SP": "EGYJÁTÉKOS MÓD",
+        "FET_SP": "EGYJÁTÉKOS MÓD",
+        "FEM_MP": "TÖBBJÁTÉKOS MÓD",
+        "FET_MP": "TÖBBJÁTÉKOS MÓD",
+
+        # Save / Load / Delete Game
+        "FET_LG": "JÁTÉK BETÖLTÉSE",
+        "FES_LG": "JÁTÉK BETÖLTÉSE",
+        "FES_LGA": "Játék betöltése",
+        "FET_SG": "JÁTÉK MENTÉSE",
+        "FES_SA": "Játék mentése",
+        "FESZ_SA": "Játék mentése",
+        "FET_DG": "JÁTÉK TÖRLÉSE",
+        "FES_DGA": "JÁTÉK TÖRLÉSE",
+        "FES_CAN": "Mégse",
+        "FESZ_CA": "Mégse",
+        "FESZ_UC": "MÉGSE",
+        "FESZ_OK": "OK",
+        "FES_WAR": "Mentés folyamatban, kérlek várj...",
+        "FED_LDW": "Betöltés, kérlek várj...",
+        "FED_DLW": "Törlés, kérlek várj...",
+        "FESZ_L1": "Játék sikeresen elmentve!",
+        "FES_SSC": "Játék sikeresen elmentve.",
+        "FESZ_LS": "Sikeres betöltés.",
+        "FES_LOF": "Betöltés sikertelen.",
+        "FES_LOE": "Betöltés sikertelen! Kérlek próbáld újra.",
+        "FES_DEE": "Törlés sikertelen! Kérlek próbáld újra.",
+        "FESZ_QS": "FOLYTATOD A MENTÉST?",
+        "FES_SCG": "Elmented a jelenlegi játékot?",
+        "FES_LCG": "Betöltöd a játékot és folytatod?",
+        "FESZ_QL": "Minden nem mentett haladás elvész. Folytatod a betöltést?",
+        "FESZ_QD": "Biztosan törölni szeretnéd ezt a mentést?",
+        "FESZ_QR": "Biztosan új játékot kezdesz? Minden nem mentett haladás elvész.",
+        "FESZ_QO": "Felülírod ezt a mentést?",
+        "FES_CGA": "Elérhető mentési helyek:",
+        "FES_SLO": "MENTÉSI FÁJL",
+        "FES_DAT": "DÁTUM",
+        "FES_ISC": "SÉRÜLT FÁJL",
+        "FES_ISF": "ÜRES HELY",
+        "FEM_SL1": "1. hely szabad",
+        "FEM_SL2": "2. hely szabad",
+        "FEM_SL3": "3. hely szabad",
+        "FEM_SL4": "4. hely szabad",
+        "FEM_SL5": "5. hely szabad",
+        "FEM_SL6": "6. hely szabad",
+        "FEM_SL7": "7. hely szabad",
+        "FEM_SL8": "8. hely szabad",
+
+        # Audio Setup
+        "FET_AUD": "HANG BEÁLLÍTÁSOK",
+        "FEB_AUD": "Hang",
+        "FEA_MUS": "ZENE HANGERŐ",
+        "FEA_SFX": "EFFEKT HANGERŐ",
+        "FEA_RSS": "RÁDIÓADÓ",
+        "FEA_FMN": "RÁDIÓ KIKAPCSOLVA",
+        "FEA_3DH": "HANG HARDVER",
+        "FEA_SPK": "HANGSZÓRÓ BEÁLLÍTÁS",
+        "FEA_2SP": "2 HANGSZÓRÓ",
+        "FEA_4SP": "TÖBB MINT 2 HANGSZÓRÓ",
+        "FEA_EAR": "FEJHALLGATÓ",
+        "FEA_MNO": "Monó",
+        "FEA_ST": "Sztereó",
+        "FEA_NAH": "NINCS HANG HARDVER",
+        "FEA_OUT": "Kimenet:",
+
+        # Display Setup
+        "FET_DIS": "KÉPERNYŐ BEÁLLÍTÁSOK",
+        "FEB_DIS": "Képernyő",
+        "FED_BRI": "FÉNYERŐ",
+        "FED_SUB": "FELIRATOK",
+        "FED_WIS": "SZÉLESVÁSZON",
+        "FED_RES": "FELBONTÁS",
+        "FED_FLS": "TELJES KÉPERNYŐ",
+        "FED_WND": "ABLAKOS MÓD",
+        "FED_TRA": "CSÓVÁK",
+        "FED_MBL": "MOZGÁSI ELMOSÓDÁS",
+        "FED_FRM": "KÉPKOCKA KORLÁTOZÓ",
+        "FEM_FRM": "KÉPKOCKA KORLÁTOZÓ",
+        "FEM_VSC": "FÜGGŐLEGES SZINKRON",
+        "FEM_LOD": "LÁTÓTÁVOLSÁG",
+        "FEM_CSB": "MOZIFILM KERETEK",
+        "FED_AAS": "ÉLSÍMÍTÁS",
+        "FED_FIL": "TEXTÚRA SZŰRÉS",
+
+        # Language Setup
+        "FET_LAN": "NYELV BEÁLLÍTÁSOK",
+        "FEB_LAN": "Nyelv",
+
+        # Controls Setup
+        "FET_CTL": "IRÁNYÍTÁS BEÁLLÍTÁSA",
+        "FEB_CON": "Irányítás",
+        "FEB_CPC": "Irányítás Testreszabása",
+        "FET_CCN": "IRÁNYÍTÁS: KLASSZIKUS",
+        "FET_SCN": "IRÁNYÍTÁS: SZOKÁSOS",
+        "FET_RDK": "GOMBOK MÓDOSÍTÁSA",
+        "FET_DEF": "ALAPÉRTELMEZETT BEÁLLÍTÁSOK",
+        "FET_HRD": "ALAPÉRTELMEZETT BEÁLLÍTÁSOK VISSZAÁLLÍTVA",
+        "FET_AMS": "EGÉR BEÁLLÍTÁSOK",
+        "FET_AGS": "GAMEPAD BEÁLLÍTÁSOK",
+        "FET_MST": "EGÉRREL VEZÉRELT KORMÁNYZÁS",
+        "FET_CCR": "JÁRMŰBEN",
+        "FET_CFT": "GYALOG",
+        "FET_CAC": "MŰVELET",
+        "FET_CME": "IRÁNYÍTÁSI MÓD",
+        "FET_APL": "ALKALMAZ",
+        "FET_CIG": "BACKSPACE A TÖRLÉSHEZ - BAL KATTINTÁS/ENTER A VÁLTOZTATÁSHOZ",
+        "FET_RIG": "VÁLASSZ EGY ÚJ GOMBOT A MŰVELETHEZ VAGY NYOMJ ESC-ET A MÉGSE-HEZ",
+        "FET_EIG": "NEM RENDELHETŐ GOMB EHHEZ A MŰVELETHEZ",
+        "FEC_ACC": "Gyorsítás",
+        "FEC_ACL": "Jármű gyorsítás",
+        "FEC_BRA": "Fék vagy tolatás",
+        "FEC_BRK": "Jármű fék",
+        "FEC_HAB": "Kézifék",
+        "FEC_HBR": "Jármű kézifék",
+        "FEC_HND": "Kézifék",
+        "FEC_FOR": "Előre",
+        "FEC_BAC": "Hátra",
+        "FEC_LEF": "Balra",
+        "FEC_RIG": "Jobbra",
+        "FEC_LFA": "BALRA",
+        "FEC_RFA": "JOBBRA",
+        "FEC_FIR": "Tűz / Lövés",
+        "FEC_ATT": "Támadás vagy fegyver használata",
+        "FEC_WPN": "Fegyver használata",
+        "FEC_PFR": "Fegyver elsütése",
+        "FEC_JMP": "Ugrás",
+        "FEC_JUM": "Ugrás",
+        "FEC_PJP": "Gyalogos ugrás",
+        "FEC_SPN": "Sprint",
+        "FEC_PSP": "Gyalogos sprint",
+        "FEC_ENT": "Beszállás / Kiszállás járműből",
+        "FEC_ENV": "Beszállás a járműbe",
+        "FEC_EXV": "Beszállás és kiszállás",
+        "FEC_EEX": "Beszállás / kiszállás",
+        "FEC_HOR": "Duda",
+        "FEC_HRN": "Duda",
+        "FEC_CAM": "Kamera nézetek",
+        "FEC_CMR": "Kamera váltása",
+        "FEC_CMS": "Kamera mód váltása minden helyzetben.",
+        "FEC_CEN": "Kamera középre",
+        "FEC_CCM": "Kamera játékos mögé igazítása.",
+        "FEC_CRD": "Rádióállomás váltása",
+        "FEC_CWL": "Előző fegyver",
+        "FEC_CWR": "Következő fegyver",
+        "FEC_CLE": "Előző fegyver",
+        "FEC_CRI": "Következő fegyver",
+        "FEC_NWE": "Következő fegyver",
+        "FEC_PWE": "Előző fegyver",
+        "FEC_LKT": "Célpont rögzítése",
+        "FEC_TAR": "Célzás",
+        "FEC_NTR": "Következő célpont",
+        "FEC_PTT": "Előző célpont",
+        "FEC_LBH": "Hátranézés járműből",
+        "FEC_LLF": "Nézés balra járműből",
+        "FEC_LRG": "Nézés jobbra járműből",
+        "FEC_LL": "Nézés balra",
+        "FEC_LR": "Nézés jobbra",
+        "FEC_PAS": "Szünet",
+        "FEC_PAU": "Szünet",
+
+        # Statistics & Briefs
+        "FET_STA": "STATISZTIKA",
+        "FEB_STA": "Statisztika",
+        "FET_BRE": "KÜLDETÉSEK",
+        "FEB_BRI": "Küldetések",
+        "FEB_PMB": "Korábbi küldetések leírása:",
+        "FEST_MP": "Teljesített küldetések",
+        "FEST_RP": "Teljesített ámokfutások",
+        "FEST_FE": "Eloltott tüzek száma",
+        "FEST_LS": "Mentővel megmentett személyek",
+        "FEST_CC": "Megölt bűnözők (Polgárőrség)",
+        "FEST_DC": "Autóval megtett távolság (mérföld)",
+        "FEST_DF": "Gyalog megtett távolság (mérföld)",
+        "FESTDCM": "Autóval megtett távolság (méter)",
+        "FESTDFM": "Gyalog megtett távolság (méter)",
+        "FEST_HA": "Legmagasabb mentős szint",
+        "FEST_LF": "Leghosszabb repülés a Dodóval",
+        "FEST_OO": "összesen",
+
+        # HUD & System Alerts
+        "DEAD": "POCSÉKUL VÉGEZTED!",
+        "BUSTED": "LEKAPCSOLTAK!",
+        "1005": "LEKAPCSOLTAK!",
+        "1006": "LEKAPCSOLTAK!",
+        "1007": "LEKAPCSOLTAK!",
+        "1008": "LEKAPCSOLTAK!",
+        "1009": "LEKAPCSOLTAK!",
+        "1010": "~r~A járműved a tetejére borult",
+        "1011": "~r~A járműved a tetejére borult",
+        "1012": "~r~A járműved a tetejére borult",
+        "1013": "~r~A járműved a tetejére borult",
+        "1014": "~r~A járműved a tetejére borult",
+        "M_PASS": "KÜLDETÉS TELJESÍTVE! $~1~",
+        "M_FAIL": "KÜLDETÉS SIKERTELEN!",
+        "A_PASS": "Megmentve!",
+        "C_PASS": "VESZÉLY ELHÁRÍTVA!",
+        "F_PASS1": "Tűz eloltva!",
+        "O_PASS": "MELLÉKKÜLDETÉS TELJESÍTVE!",
+        "AMMU": "Menj be az Ammu-Nationbe fegyvert venni.",
+        "BOMB1": "8-Ball garázsa",
+        "RES_A": "A HÍD LE VAN ZÁRVA.",
+        "TAX_1": "Vidd az utast a célállomásra!",
+        "TAX_2": "Keresd meg a következő utast!",
+        "TAX_3": "Fuvar teljesítve! Kerestél: $~1~",
+
+        # Help / Tutorial Strings
+        "HELP1": "Állj meg a kék jelzés közepén.",
+        "HELP10": "Ez a jelvény jelzi a rendőrségi körözési szintedet.",
+        "HELP11": "Minél több a jelvény, annál magasabb a körözési szinted.",
+        "HELP12": "Lépj a kék jelzés közepébe a küldetés elindításához.",
+        "HELP13": "Néha olyan utakat kell használnod, amelyeket nem mutat a radar.",
+        "HELP14": "A fegyverek felvételéhez sétálj át rajtuk. Járműből nem lehet felvenni őket.",
+        "HELP15": "Gyalog nyomd meg a ~h~~k~~PED_LOOKBEHIND~ gombot~w~ a ~h~hátranézéshez~w~.",
+        "HELP2_A": "Nyomd meg a ~h~/ gombot~w~ futás közben a ~h~sprinteléshez.",
+        "HELP3": "Csak rövid ideig tudsz sprintelni, mielőtt elfáradsz.",
+        "HELP4_A": "Nyomd meg a~h~ ~k~~VEHICLE_ACCELERATE~ gombot~w~ a ~h~gyorsításhoz.",
+        "HELP5_A": "Nyomd meg a~h~ ~k~~VEHICLE_BRAKE~ gombot~w~ a ~h~fékezéshez~w~, vagy a ~h~tolatáshoz~w~, ha a jármű már megállt.",
+        "HELP6_A": "Nyomd meg a~h~ ~k~~VEHICLE_HANDBRAKE~ gombot ~w~a ~h~kézifék~w~ behúzásához.",
+        "HELP6_C": "Nyomd meg a~h~ ~k~~VEHICLE_HANDBRAKE~ gombot ~w~a ~h~kézifék~w~ behúzásához.",
+        "HELP6_D": "Nyomd meg a~h~ ~k~~VEHICLE_HANDBRAKE~ gombot ~w~a ~h~kézifék~w~ behúzásához.",
+
+        # Key Gameplay Objectives & Alerts
+        "EBAL_1": "Nyomd meg a~h~ ~k~~VEHICLE_ENTER_EXIT~ gombot~w~ a járműbe való ~h~beszálláshoz~w~ vagy ~h~kiszálláshoz~w~.",
+        "EBAL_1B": "Nyomd meg a~h~ ~k~~VEHICLE_ENTER_EXIT~ gombot~w~ a járműbe való ~h~beszálláshoz~w~ vagy ~h~kiszálláshoz~w~.",
+        "EBAL_2": "~g~Szállj vissza a kocsiba!",
+        "EBAL_3": "Ez a ~h~radar~w~. Használd a városban való tájékozódáshoz, kövesd a ~h~jelzést~w~ a ~h~radaron~w~ a búvóhely megtalálásához!",
+        "EBAL_4": "~r~8-Ball meghalt!",
+        "EBAL_5": "~g~Szerezz egy járművet!",
+        "EBAL_6": "~g~Vedd fel Mistyt!",
+        "JM1_1": "~g~Vidd Forelli autóját 8-Ball garázsába északra, az 'Easy Credit Autos' mögé.",
+        "LM1_1": "~g~Menj a kórházhoz és vedd fel Mistyt!",
+        "LM1_2": "~g~Vidd vissza Mistyt Luigi klubjához!",
+        "LM2_1": "~g~Menj Portland kikötőjébe és találd meg a dílert!",
+        "LM2_2": "~g~Végezz a dílerrel!",
+        "LM2_3": "~g~Vidd el a díler autóját a Pay 'n' Spray-be és fújasd át!",
+        "PAGEB1": "Pisztoly leszállítva a búvóhelyre",
+        "PAGEB2": "Uzi leszállítva a búvóhelyre",
+        "PAGEB3": "Golyóálló mellény leszállítva a búvóhelyre",
+        "PAGEB4": "Sörétes puska leszállítva a búvóhelyre",
+        "PAGEB5": "Gránátok leszállítva a búvóhelyre",
+        "PAGEB6": "Molotov-koktélok leszállítva a búvóhelyre",
+        "PAGEB7": "AK-47 leszállítva a búvóhelyre",
+        "PAGEB8": "Mesterlövész puska leszállítva a búvóhelyre",
+        "PAGEB9": "M16 leszállítva a búvóhelyre",
+        "PAGEB10": "Rakétavető leszállítva a búvóhelyre",
+        "PAGEB11": "Lángszóró leszállítva a búvóhelyre",
+        "PAGEB12": "Rendőri kenőpénz leszállítva a búvóhelyre",
+        "PAGEB13": "Életerő csomag leszállítva a búvóhelyre",
+        "PAGEB14": "Adrenalin kapszula leszállítva a búvóhelyre"
+    }
+
+    STATIC_OVERRIDES.update(GUI_AND_SYSTEM_OVERRIDES)
+
     dialogue_prefixes = [
         "BETRA", "EBAL", "LM1", "LM2", "LM3", "LM4", "LM5",
         "JM1", "JM2", "JM3", "JM4", "JM5", "JM6",
@@ -265,8 +557,10 @@ def main():
     repo_text_dir = os.path.join(REPO_DIR, "text")
     os.makedirs(repo_text_dir, exist_ok=True)
     out_gxt_repo = os.path.join(repo_text_dir, "american.gxt")
+    out_gxt_eng_repo = os.path.join(repo_text_dir, "english.gxt")
     pack_gxt(gxt, out_gxt_repo)
-    print(f"Generated repository GXT at: {out_gxt_repo}")
+    pack_gxt(gxt, out_gxt_eng_repo)
+    print(f"Generated repository GXT at: {out_gxt_repo} and {out_gxt_eng_repo}")
 
     # Deploy to game installations
     for text_dir in [GAME_TEXT_DIR, CROSSOVER_TEXT_DIR]:
@@ -286,7 +580,20 @@ def main():
         pack_gxt(gxt, english_file)
         print(f"Deployed Hungarian GXT to: {orig_file} and {english_file}")
 
-    print("\nIn-game Hungarian subtitles installed and verified successfully!")
+        # Update FEL_ENG in all other language GXT files so "MAGYAR" is visible from any language menu
+        for fname in os.listdir(text_dir):
+            if fname.lower().endswith(".gxt") and fname not in ["american.gxt", "english.gxt", "american_original_backup.gxt"]:
+                other_gxt_path = os.path.join(text_dir, fname)
+                try:
+                    other_gxt = parse_gxt(other_gxt_path)
+                    if "FEL_ENG" in other_gxt:
+                        other_gxt["FEL_ENG"] = map_hungarian_text("MAGYAR")
+                        pack_gxt(other_gxt, other_gxt_path)
+                        print(f"Updated FEL_ENG -> MAGYAR in {fname}")
+                except Exception as e:
+                    print(f"Could not update {fname}: {e}")
+
+    print("\nIn-game Hungarian GUI, Menus, and Subtitles installed and verified successfully!")
 
 if __name__ == "__main__":
     main()
